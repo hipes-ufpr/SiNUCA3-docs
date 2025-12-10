@@ -1,0 +1,7 @@
+<map id="Fetcher::ClockFetch" name="Fetcher::ClockFetch">
+<area shape="rect" id="Node000001" title="Helper to get the fetched instructions." alt="" coords="5,5,155,31"/>
+<area shape="rect" id="Node000002" href="$classComponent.html#a27f92b87690beb59c267a7fa2336d2ff" title="Receives a response from another component." alt="" coords="203,5,423,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,15,189,15,189,21,155,21"/>
+<area shape="rect" id="Node000003" href="$classLinkable.html#aa633b394bf014d9ddc47a91e17b8ce3d" title="Gets a response message in the parameter. (The other calls this method)" alt="" coords="471,5,687,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="423,15,457,15,457,21,423,21"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Ras::Clock" name="Ras::Clock">
+<area shape="rect" id="Node000001" title="This method should be declared here so the simulator can send clock cycles." alt="" coords="5,35,96,60"/>
+<area shape="rect" id="Node000002" href="$classLinkable.html#ad9a6ead10f00c5d4f1c9614aa0bfeb9e" title="Self&#45;explanatory." alt="" coords="145,5,399,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,39,162,30,163,35,97,44"/>
+<area shape="rect" id="Node000003" href="$classComponent.html#a75bb1a9aff8e43246935b0770fb3d9ed" title="Receives a request from another component." alt="" coords="144,55,400,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="97,50,131,55,130,60,96,56"/>
+</map>

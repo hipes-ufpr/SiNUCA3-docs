@@ -1,0 +1,11 @@
+<map id="BranchTargetBuffer::UpdateBranch" name="BranchTargetBuffer::UpdateBranch">
+<area shape="rect" id="Node000001" title="Update a BTB entry." alt="" coords="5,69,152,109"/>
+<area shape="rect" id="Node000002" href="$classBranchTargetBuffer.html#a1c6951871527db6bc08d3306747ccc48" title="Calculate the bank based on address." alt="" coords="212,5,359,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,67,207,47,208,52,145,72"/>
+<area shape="rect" id="Node000003" href="$classBranchTargetBuffer.html#a48f66014bbe951c711d5dacdb29bf048" title="Calculate the index based on address." alt="" coords="212,69,359,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,87,198,87,198,92,152,92"/>
+<area shape="rect" id="Node000004" href="$structBTBEntry.html#a89e43d980a54fab033e9354969500987" title="Update the BTB entry." alt="" coords="200,134,371,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="152,107,226,128,225,133,151,112"/>
+<area shape="rect" id="Node000005" href="$classBimodalPredictor.html#a23af28cf335eb0421fde58b9cc393767" title="Updates the prediciton with the new information." alt="" coords="419,127,608,167"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="371,144,405,144,405,149,371,149"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="sinucaTracer::MemoryTraceFile" name="sinucaTracer::MemoryTraceFile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="237,211,460,236"/>
+<area shape="rect" id="Node000002" href="$classsinucaTracer_1_1TraceFileReader.html" title=" " alt="" coords="5,93,220,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,122,326,208,324,213,147,127"/>
+<area shape="rect" id="Node000003" href="$structsinucaTracer_1_1TraceFile.html" title=" " alt="" coords="146,5,314,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="205,41,130,95,127,91,202,37"/>
+<area shape="rect" id="Node000004" href="$classsinucaTracer_1_1TraceFileWriter.html" title=" " alt="" coords="245,93,453,119"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="259,37,334,91,331,95,256,41"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="351,132,351,211,346,211,346,132"/>
+<area shape="rect" id="Node000005" href="$structsinucaTracer_1_1DataMEM.html" title=" " alt="" coords="477,93,652,119"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="532,128,371,213,369,208,530,123"/>
+</map>

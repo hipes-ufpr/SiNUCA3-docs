@@ -1,0 +1,13 @@
+<map id="SimpleCore::SetConfigParameter" name="SimpleCore::SetConfigParameter">
+<area shape="rect" id="Node000001" title="This method should be declared here so the simulator can send config parameters." alt="" coords="5,31,240,56"/>
+<area shape="rect" id="Node000002" href="$classComponent.html#adb7efec501917be07a6e17a1d4c1d48a" title="Connects to another component." alt="" coords="288,31,447,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,41,274,41,274,46,240,46"/>
+<area shape="rect" id="Node000003" href="$classLinkable.html#ae3c99b11c56a71f4a231281d615d85c1" title="Connect to this component." alt="" coords="495,31,677,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="447,41,481,41,481,46,447,46"/>
+<area shape="rect" id="Node000004" href="$classLinkable.html#af639d5ce03b401a6979f239a116f441e" title="Add the new connection in the connections array." alt="" coords="730,5,913,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="678,31,716,27,716,32,678,36"/>
+<area shape="rect" id="Node000005" href="$structConnection.html#a9b1be2982a5f4a4c6bff81fe7a931673" title="Allocate the buffers used to channels." alt="" coords="725,55,917,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="678,50,712,53,711,59,678,55"/>
+<area shape="rect" id="Node000006" href="$classCircularBuffer.html#aea7f307fc50f0061abc38840a1be0ad5" title="Allocates the structure of a Circular Buffer." alt="" coords="965,55,1137,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="918,65,952,65,952,70,918,70"/>
+</map>

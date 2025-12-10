@@ -1,0 +1,9 @@
+<map id="Linkable::ConnectUnsafe" name="Linkable::ConnectUnsafe">
+<area shape="rect" id="Node000001" title="Connect to this component." alt="" coords="5,31,188,56"/>
+<area shape="rect" id="Node000002" href="$classLinkable.html#af639d5ce03b401a6979f239a116f441e" title="Add the new connection in the connections array." alt="" coords="241,5,423,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,31,226,27,227,32,189,36"/>
+<area shape="rect" id="Node000003" href="$structConnection.html#a9b1be2982a5f4a4c6bff81fe7a931673" title="Allocate the buffers used to channels." alt="" coords="236,55,428,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,50,222,53,222,59,188,55"/>
+<area shape="rect" id="Node000004" href="$classCircularBuffer.html#aea7f307fc50f0061abc38840a1be0ad5" title="Allocates the structure of a Circular Buffer." alt="" coords="476,55,648,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="428,65,462,65,462,70,428,70"/>
+</map>

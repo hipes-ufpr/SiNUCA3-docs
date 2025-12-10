@@ -1,0 +1,17 @@
+<map id="EngineDebugComponent::Clock" name="EngineDebugComponent::Clock">
+<area shape="rect" id="Node000001" title="This method should be declared here so the simulator can send clock cycles." alt="" coords="5,113,188,153"/>
+<area shape="rect" id="Node000002" href="$classLinkable.html#ad9a6ead10f00c5d4f1c9614aa0bfeb9e" title="Self&#45;explanatory." alt="" coords="237,5,491,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,110,172,74,235,41,262,32,264,37,237,46,175,79,124,115"/>
+<area shape="rect" id="Node000003" href="$classComponent.html#a75bb1a9aff8e43246935b0770fb3d9ed" title="Receives a request from another component." alt="" coords="236,55,492,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,110,256,96,257,101,189,116"/>
+<area shape="rect" id="Node000004" href="$classComponent.html#a27f92b87690beb59c267a7fa2336d2ff" title="Receives a response from another component." alt="" coords="254,120,474,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="188,130,241,130,241,135,188,135"/>
+<area shape="rect" id="Node000006" href="$classComponent.html#a612c7acfd4a5f107a2e46f0eb6e9950e" title="Sends a request to another component." alt="" coords="269,169,459,195"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="189,147,282,164,281,169,188,152"/>
+<area shape="rect" id="Node000008" href="$classComponent.html#ad1b0b8b74b2164c8cd3e7d6927a3a378" title="Sends a response to another component." alt="" coords="251,219,477,259"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="131,151,180,178,237,205,260,213,258,218,235,210,178,183,128,155"/>
+<area shape="rect" id="Node000005" href="$classLinkable.html#aa633b394bf014d9ddc47a91e17b8ce3d" title="Gets a response message in the parameter. (The other calls this method)" alt="" coords="540,120,756,145"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="474,130,526,130,526,135,474,135"/>
+<area shape="rect" id="Node000007" href="$classLinkable.html#ab1105aee3fd76499e6603277e778f0c7" title="Receive a request from other component. (The other calls this method)" alt="" coords="541,169,755,195"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="459,179,527,179,527,185,459,185"/>
+</map>

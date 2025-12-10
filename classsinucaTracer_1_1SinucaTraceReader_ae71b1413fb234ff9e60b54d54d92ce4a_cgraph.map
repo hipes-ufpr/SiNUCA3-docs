@@ -1,0 +1,9 @@
+<map id="sinucaTracer::SinucaTraceReader::OpenTrace" name="sinucaTracer::SinucaTraceReader::OpenTrace">
+<area shape="rect" id="Node000001" title="Class attributes initializer." alt="" coords="5,37,193,77"/>
+<area shape="rect" id="Node000002" href="$classsinucaTracer_1_1SinucaTraceReader.html#ad697c760faf0c7e69eaa444f3e970dba" title="Fill instructions dictionary." alt="" coords="241,37,445,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,55,228,55,228,60,194,60"/>
+<area shape="rect" id="Node000003" href="$classsinucaTracer_1_1StaticTraceFile.html#a010ab70815c724b6be5f72be6474f039" title="Retrieves number of instructions of new basic block." alt="" coords="495,5,678,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="445,41,481,36,482,42,446,47"/>
+<area shape="rect" id="Node000004" href="$classsinucaTracer_1_1StaticTraceFile.html#a61ca6c9636ef60124bdab85fe5d4709a" title="Fills struct with static info about the instruction." alt="" coords="493,69,680,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="446,68,480,73,479,78,445,73"/>
+</map>

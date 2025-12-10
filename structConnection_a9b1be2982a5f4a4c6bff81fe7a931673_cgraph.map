@@ -1,0 +1,5 @@
+<map id="Connection::CreateBuffers" name="Connection::CreateBuffers">
+<area shape="rect" id="Node000001" title="Allocate the buffers used to channels." alt="" coords="5,5,197,31"/>
+<area shape="rect" id="Node000002" href="$classCircularBuffer.html#aea7f307fc50f0061abc38840a1be0ad5" title="Allocates the structure of a Circular Buffer." alt="" coords="245,5,417,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,15,232,15,232,21,198,21"/>
+</map>

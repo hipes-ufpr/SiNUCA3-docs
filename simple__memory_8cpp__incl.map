@@ -1,0 +1,37 @@
+<map id="src/std_components/memory/simple_memory.cpp" name="src/std_components/memory/simple_memory.cpp">
+<area shape="rect" id="Node000001" title="Implementation of the SimpleMemory." alt="" coords="130,5,346,45"/>
+<area shape="rect" id="Node000002" href="$simple__memory_8hpp.html" title=" " alt="" coords="218,93,373,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,44,281,80,277,84,250,47"/>
+<area shape="rect" id="Node000003" href="$sinuca3_8hpp.html" title=" " alt="" coords="188,167,288,192"/>
+<area shape="poly" id="edge20_Node000001_Node000003" title=" " alt="" coords="227,47,211,80,207,99,209,118,225,154,220,156,203,119,202,99,206,78,222,44"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="288,121,258,158,254,154,284,117"/>
+<area shape="rect" id="Node000004" href="$config_8hpp.html" title="Configuration public API for SiNUCA3." alt="" coords="5,460,137,485"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="194,195,148,213,125,226,105,242,71,280,54,318,50,360,55,412,64,446,59,448,50,412,45,360,49,316,67,277,102,238,123,222,146,208,192,190"/>
+<area shape="rect" id="Node000006" href="$component_8hpp.html" title="Public API of the component template class." alt="" coords="85,313,255,339"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="235,194,184,302,179,300,230,191"/>
+<area shape="rect" id="Node000007" href="$linkable_8hpp.html" title="Public API of the Linkable class." alt="" coords="65,387,214,412"/>
+<area shape="poly" id="edge17_Node000003_Node000007" title=" " alt="" coords="214,194,180,213,141,239,103,273,75,314,73,332,79,348,93,363,109,377,106,381,89,367,75,351,67,332,70,312,99,270,137,235,177,208,211,190"/>
+<area shape="rect" id="Node000010" href="$default__packets_8hpp.html" title="Standard message types." alt="" coords="348,387,549,412"/>
+<area shape="poly" id="edge10_Node000003_Node000010" title=" " alt="" coords="289,183,352,195,424,218,460,235,494,256,524,281,550,312,554,323,554,335,543,354,521,371,495,384,493,379,518,366,539,351,549,333,549,324,545,315,521,285,491,260,458,239,422,223,350,200,288,188"/>
+<area shape="rect" id="Node000011" href="$engine_8hpp.html" title="Public API of the simulation engine." alt="" coords="223,240,365,265"/>
+<area shape="poly" id="edge12_Node000003_Node000011" title=" " alt="" coords="249,191,279,228,274,231,245,194"/>
+<area shape="rect" id="Node000014" href="$logging_8hpp.html" title=" " alt="" coords="610,240,741,265"/>
+<area shape="poly" id="edge18_Node000003_Node000014" title=" " alt="" coords="289,186,597,236,596,241,288,191"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="40,533,103,559"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="74,486,74,520,69,520,69,486"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="167,340,152,375,147,373,162,338"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="130,414,94,452,90,448,126,410"/>
+<area shape="rect" id="Node000008" href="$circular__buffer_8hpp.html" title="Circular Buffer Class." alt="" coords="199,460,373,485"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="164,410,251,452,249,456,162,414"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="325,533,391,559"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="300,484,338,522,335,526,296,488"/>
+<area shape="poly" id="edge11_Node000010_Node000009" title=" " alt="" coords="444,414,375,523,370,520,439,411"/>
+<area shape="poly" id="edge14_Node000011_Node000006" title=" " alt="" coords="275,268,203,309,201,304,273,263"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="279,313,338,339"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="299,265,306,299,301,300,294,266"/>
+<area shape="rect" id="Node000013" href="$trace__reader_8hpp.html" title="Pure virtual TraceReader class that all trace readers must implement." alt="" coords="362,313,535,339"/>
+<area shape="poly" id="edge15_Node000011_Node000013" title=" " alt="" coords="320,263,412,305,410,310,318,268"/>
+<area shape="poly" id="edge16_Node000013_Node000010" title=" " alt="" coords="451,339,451,373,446,373,446,339"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="645,313,706,339"/>
+<area shape="poly" id="edge19_Node000014_Node000015" title=" " alt="" coords="678,266,678,300,673,300,673,266"/>
+</map>

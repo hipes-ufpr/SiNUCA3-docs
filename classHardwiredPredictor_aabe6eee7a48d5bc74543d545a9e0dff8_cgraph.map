@@ -1,0 +1,15 @@
+<map id="HardwiredPredictor::Clock" name="HardwiredPredictor::Clock">
+<area shape="rect" id="Node000001" title="This method should be declared here so the simulator can send clock cycles." alt="" coords="5,55,152,95"/>
+<area shape="rect" id="Node000002" href="$classLinkable.html#ad9a6ead10f00c5d4f1c9614aa0bfeb9e" title="Self&#45;explanatory." alt="" coords="201,5,455,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,53,199,41,245,31,246,36,201,46,153,58"/>
+<area shape="rect" id="Node000003" href="$classComponent.html#a75bb1a9aff8e43246935b0770fb3d9ed" title="Receives a request from another component." alt="" coords="200,55,456,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,73,186,73,186,78,152,78"/>
+<area shape="rect" id="Node000004" href="$classHardwiredPredictor.html#a06b30a9020fbd1849bf042ff5569502f" title="Helper to respond a request." alt="" coords="255,119,401,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="153,92,201,105,242,115,241,120,199,110,152,97"/>
+<area shape="rect" id="Node000005" href="$classComponent.html#a612c7acfd4a5f107a2e46f0eb6e9950e" title="Sends a request to another component." alt="" coords="522,97,713,123"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="401,129,508,118,509,124,402,135"/>
+<area shape="rect" id="Node000007" href="$classComponent.html#ad1b0b8b74b2164c8cd3e7d6927a3a378" title="Sends a response to another component." alt="" coords="504,147,731,187"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="402,144,490,152,490,158,401,149"/>
+<area shape="rect" id="Node000006" href="$classLinkable.html#ab1105aee3fd76499e6603277e778f0c7" title="Receive a request from other component. (The other calls this method)" alt="" coords="779,97,993,123"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="713,107,765,107,765,113,713,113"/>
+</map>

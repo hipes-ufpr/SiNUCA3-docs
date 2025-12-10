@@ -1,0 +1,12 @@
+<map id="builder::ComponentDefinition" name="builder::ComponentDefinition">
+<area shape="rect" id="Node000001" title="Intermediate representation of a component definition, i.e., not an instance, but a list of parameter..." alt="" coords="5,269,219,295"/>
+<area shape="rect" id="Node000002" href="$structbuilder_1_1ParameterMap.html" title="Intermediate representation of a list of parameters, i.e., the entire configuration passed to a compo..." alt="" coords="27,181,197,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,221,115,269,109,269,109,221"/>
+<area shape="rect" id="Node000003" href="$structbuilder_1_1ParameterMapItem.html" title="Intermediate representation of a parameter itself (with a name)." alt="" coords="12,93,212,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="115,133,115,181,109,181,109,133"/>
+<area shape="rect" id="Node000004" href="$structbuilder_1_1Parameter.html" title="Intermediate representation of a parameter value for a component. Tagged union." alt="" coords="143,5,286,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="172,39,146,57,130,75,119,94,115,92,126,72,142,53,169,35"/>
+<area shape="rect" id="Node000005" href="$structbuilder_1_1ParameterArray.html" title="Intermediate representation of an array of parameters. This is a helper struct managed by Parameter,..." alt="" coords="237,93,414,119"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="209,44,209,57,213,68,227,81,244,91,241,96,223,85,208,71,203,58,204,44"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="313,82,294,57,275,43,253,33,255,28,277,38,298,53,317,79"/>
+</map>

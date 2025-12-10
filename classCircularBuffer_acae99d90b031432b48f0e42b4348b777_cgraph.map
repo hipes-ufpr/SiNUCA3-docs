@@ -1,0 +1,5 @@
+<map id="CircularBuffer::Dequeue" name="CircularBuffer::Dequeue">
+<area shape="rect" id="Node000001" title="Removes and returns the element contained in the &quot;base&quot; of the Buffer." alt="" coords="5,5,183,31"/>
+<area shape="rect" id="Node000002" href="$classCircularBuffer.html#a9a1832f6c5c169bbc45542750e3d5d0f" title="Returns a boolean indicating whether the Buffer is empty." alt="" coords="231,5,403,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,15,217,15,217,21,183,21"/>
+</map>

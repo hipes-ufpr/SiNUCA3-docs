@@ -1,0 +1,26 @@
+<map id="sinucaTracer::SinucaTraceReader" name="sinucaTracer::SinucaTraceReader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="274,401,462,441"/>
+<area shape="rect" id="Node000002" href="$classTraceReader.html" title=" " alt="" coords="162,299,265,324"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,330,342,399,339,403,239,334"/>
+<area shape="rect" id="Node000003" href="$structsinucaTracer_1_1ThrInfo.html" title=" " alt="" coords="289,299,447,324"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="371,338,371,401,365,401,365,338"/>
+<area shape="rect" id="Node000004" href="$classsinucaTracer_1_1DynamicTraceFile.html" title=" " alt="" coords="5,211,232,236"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="166,238,335,296,334,301,165,243"/>
+<area shape="rect" id="Node000005" href="$classsinucaTracer_1_1TraceFileReader.html" title=" " alt="" coords="11,93,226,119"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="121,132,121,211,116,211,116,132"/>
+<area shape="rect" id="Node000008" href="$classsinucaTracer_1_1MemoryTraceFile.html" title=" " alt="" coords="257,211,479,236"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="157,122,344,208,342,213,155,127"/>
+<area shape="rect" id="Node000006" href="$structsinucaTracer_1_1TraceFile.html" title=" " alt="" coords="152,5,320,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="211,41,136,95,133,91,208,37"/>
+<area shape="rect" id="Node000007" href="$classsinucaTracer_1_1TraceFileWriter.html" title=" " alt="" coords="251,93,459,119"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="265,37,340,91,337,95,262,41"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="320,127,143,213,141,208,318,122"/>
+<area shape="poly" id="edge10_Node000008_Node000007" title=" " alt="" coords="360,132,369,210,364,211,355,132"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="371,250,371,298,365,298,365,250"/>
+<area shape="rect" id="Node000009" href="$structsinucaTracer_1_1DataMEM.html" title=" " alt="" coords="483,93,658,119"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="540,128,389,213,387,208,537,123"/>
+<area shape="rect" id="Node000010" href="$structsinucaTracer_1_1InstructionInfo.html" title=" " alt="" coords="475,299,680,324"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="544,333,406,404,403,399,542,328"/>
+<area shape="rect" id="Node000011" href="$structStaticInstructionInfo.html" title="Stores details of an instruction. These details are static and cannot be changed during program execu..." alt="" coords="503,211,657,236"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="582,250,580,298,575,298,577,250"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="TestQueue" name="TestQueue">
+<area shape="rect" id="Node000001" title="Test for the Queue template class." alt="" coords="5,153,96,179"/>
+<area shape="rect" id="Node000002" href="$classQueue.html#a354e2fc49134ab25f179b250e53cfdd4" title="This method should be declared here so the simulator can send clock cycles." alt="" coords="191,5,299,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="55,152,87,97,112,66,143,40,176,25,178,30,145,44,116,70,91,100,60,154"/>
+<area shape="rect" id="Node000003" href="$classComponent.html#adb7efec501917be07a6e17a1d4c1d48a" title="Connects to another component." alt="" coords="165,55,324,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="63,151,97,120,143,89,160,82,162,87,145,94,100,124,66,155"/>
+<area shape="rect" id="Node000008" href="$classQueue.html#a2c6d47473511d2e62b51667bb267bf5f" title="This method should be declared here so the simulator can send the finish setup message." alt="" coords="171,104,318,129"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="96,151,143,138,176,130,177,135,145,143,97,156"/>
+<area shape="rect" id="Node000009" href="$classQueueTester.html#a826292aae6b1575a7d8e0de366d2e0a6" title="Get&#39;s a message as a long, returning 0 if no message is available." alt="" coords="149,153,341,179"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="96,163,135,163,135,169,96,169"/>
+<area shape="rect" id="Node000011" href="$classLinkable.html#a477ca59bc87e9b91cea517c98bf5c669" title="Don&#39;t call this method." alt="" coords="173,203,316,228"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="97,175,145,187,181,197,179,202,143,193,96,180"/>
+<area shape="rect" id="Node000012" href="$classComponent.html#a612c7acfd4a5f107a2e46f0eb6e9950e" title="Sends a request to another component." alt="" coords="149,252,340,277"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="66,177,100,208,145,238,162,245,160,250,143,243,97,212,63,181"/>
+<area shape="rect" id="Node000014" href="$classQueue.html#a53ceaf338a24b358a22672eefd66f9e0" title="This method should be declared here so the simulator can send config parameters." alt="" coords="144,301,345,327"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="60,178,91,232,116,262,146,288,155,293,152,298,142,292,112,266,87,235,55,180"/>
+<area shape="rect" id="Node000004" href="$classLinkable.html#ae3c99b11c56a71f4a231281d615d85c1" title="Connect to this component." alt="" coords="419,55,601,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="324,65,405,65,405,70,324,70"/>
+<area shape="rect" id="Node000005" href="$classLinkable.html#af639d5ce03b401a6979f239a116f441e" title="Add the new connection in the connections array." alt="" coords="679,31,862,56"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="601,56,665,50,666,56,602,62"/>
+<area shape="rect" id="Node000006" href="$structConnection.html#a9b1be2982a5f4a4c6bff81fe7a931673" title="Allocate the buffers used to channels." alt="" coords="675,80,867,105"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="602,74,661,79,661,85,601,79"/>
+<area shape="rect" id="Node000007" href="$classCircularBuffer.html#aea7f307fc50f0061abc38840a1be0ad5" title="Allocates the structure of a Circular Buffer." alt="" coords="915,80,1087,105"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="867,90,901,90,901,95,867,95"/>
+<area shape="rect" id="Node000010" href="$classComponent.html#a75bb1a9aff8e43246935b0770fb3d9ed" title="Receives a request from another component." alt="" coords="393,146,627,186"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="341,163,379,163,379,169,341,169"/>
+<area shape="rect" id="Node000013" href="$classLinkable.html#ab1105aee3fd76499e6603277e778f0c7" title="Receive a request from other component. (The other calls this method)" alt="" coords="403,252,617,277"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="340,262,389,262,389,267,340,267"/>
+</map>

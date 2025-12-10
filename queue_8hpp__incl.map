@@ -1,0 +1,34 @@
+<map id="src/std_components/misc/queue.hpp" name="src/std_components/misc/queue.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="170,5,322,45"/>
+<area shape="rect" id="Node000002" href="$sinuca3_8hpp.html" title=" " alt="" coords="196,93,296,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,46,249,79,243,79,243,46"/>
+<area shape="rect" id="Node000003" href="$config_8hpp.html" title="Configuration public API for SiNUCA3." alt="" coords="5,387,137,412"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="200,121,152,140,129,153,108,169,73,206,55,244,50,286,55,338,64,373,59,374,50,339,45,286,50,242,69,203,104,165,126,148,150,135,198,116"/>
+<area shape="rect" id="Node000005" href="$component_8hpp.html" title="Public API of the component template class." alt="" coords="85,240,255,265"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="241,120,212,168,183,229,178,226,208,165,236,118"/>
+<area shape="rect" id="Node000006" href="$linkable_8hpp.html" title="Public API of the Linkable class." alt="" coords="65,313,214,339"/>
+<area shape="poly" id="edge16_Node000002_Node000006" title=" " alt="" coords="220,121,184,139,143,165,105,199,88,219,75,241,72,258,79,275,92,290,109,303,106,308,89,294,75,277,67,259,70,239,84,216,101,196,140,161,182,134,217,116"/>
+<area shape="rect" id="Node000009" href="$default__packets_8hpp.html" title="Standard message types." alt="" coords="348,313,549,339"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="297,110,358,123,428,146,463,163,496,183,525,209,550,239,554,250,554,261,543,281,521,297,496,310,493,306,518,293,539,277,549,260,549,251,545,241,521,212,493,188,461,167,426,151,357,128,296,115"/>
+<area shape="rect" id="Node000010" href="$engine_8hpp.html" title="Public API of the simulation engine." alt="" coords="223,167,365,192"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="256,118,281,154,276,157,252,121"/>
+<area shape="rect" id="Node000013" href="$logging_8hpp.html" title=" " alt="" coords="610,167,741,192"/>
+<area shape="poly" id="edge17_Node000002_Node000013" title=" " alt="" coords="297,113,597,162,596,168,296,118"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="40,460,103,485"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="74,412,74,446,69,446,69,412"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="167,267,152,302,147,300,162,265"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="130,341,94,378,90,375,126,337"/>
+<area shape="rect" id="Node000007" href="$circular__buffer_8hpp.html" title="Circular Buffer Class." alt="" coords="199,387,373,412"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="164,336,251,378,249,383,162,341"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="325,460,391,485"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="300,410,338,448,335,452,296,414"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="444,341,375,450,370,447,439,338"/>
+<area shape="poly" id="edge13_Node000010_Node000005" title=" " alt="" coords="275,194,203,235,201,231,273,190"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="279,240,338,265"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="299,192,306,226,301,227,294,193"/>
+<area shape="rect" id="Node000012" href="$trace__reader_8hpp.html" title="Pure virtual TraceReader class that all trace readers must implement." alt="" coords="362,240,535,265"/>
+<area shape="poly" id="edge14_Node000010_Node000012" title=" " alt="" coords="320,190,412,232,410,237,318,194"/>
+<area shape="poly" id="edge15_Node000012_Node000009" title=" " alt="" coords="451,266,451,300,446,300,446,266"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="645,240,706,265"/>
+<area shape="poly" id="edge18_Node000013_Node000014" title=" " alt="" coords="678,192,678,226,673,226,673,192"/>
+</map>

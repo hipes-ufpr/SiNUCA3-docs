@@ -1,0 +1,40 @@
+<map id="src/std_components/engine_debug_component.cpp" name="src/std_components/engine_debug_component.cpp">
+<area shape="rect" id="Node000001" title="Implementation of the EngineDebugComponent. THIS FILE SHALL ONLY BE CALLED BY CODE PATHS THAT ONLY CO..." alt="" coords="57,5,281,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,76,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,48,72,88,70,84,136,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="242,533,309,559"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,47,132,104,121,141,117,178,117,400,120,423,128,443,141,461,157,478,194,505,233,525,230,530,192,510,153,482,136,465,123,445,115,424,111,401,111,178,116,139,127,102,155,44"/>
+<area shape="rect" id="Node000004" href="$sinuca3_8hpp.html" title=" " alt="" coords="447,167,547,192"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="204,43,348,116,454,159,452,164,346,121,202,48"/>
+<area shape="rect" id="Node000016" href="$engine__debug__component_8hpp.html" title="API of the EngineDebugComponent. THIS FILE SHALL ONLY BE INCLUDED BY CODE PATHS THAT ONLY COMPILE IN ..." alt="" coords="359,93,581,119"/>
+<area shape="poly" id="edge21_Node000001_Node000016" title=" " alt="" coords="242,43,413,87,412,92,240,48"/>
+<area shape="rect" id="Node000005" href="$config_8hpp.html" title="Configuration public API for SiNUCA3." alt="" coords="528,460,660,485"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="547,179,627,182,719,192,802,209,833,222,855,238,866,256,872,273,872,291,867,308,846,340,812,370,770,398,725,422,641,457,639,453,722,417,767,393,809,366,842,337,863,306,867,290,867,274,862,258,851,242,831,227,800,214,718,197,626,188,547,184"/>
+<area shape="rect" id="Node000007" href="$component_8hpp.html" title="Public API of the component template class." alt="" coords="482,313,653,339"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="505,191,558,300,553,302,500,194"/>
+<area shape="rect" id="Node000008" href="$linkable_8hpp.html" title="Public API of the Linkable class." alt="" coords="505,387,654,412"/>
+<area shape="poly" id="edge18_Node000004_Node000008" title=" " alt="" coords="525,190,559,208,599,235,638,270,667,312,670,334,660,353,642,370,621,383,618,378,639,365,655,350,665,333,662,314,634,273,596,239,556,213,522,195"/>
+<area shape="rect" id="Node000010" href="$default__packets_8hpp.html" title="Standard message types." alt="" coords="175,387,376,412"/>
+<area shape="poly" id="edge11_Node000004_Node000010" title=" " alt="" coords="447,188,385,200,314,223,279,239,246,260,216,285,192,315,188,324,188,332,197,349,215,365,237,378,235,383,212,369,193,353,183,334,183,323,188,312,212,281,242,256,276,235,312,218,384,195,446,183"/>
+<area shape="rect" id="Node000011" href="$engine_8hpp.html" title="Public API of the simulation engine." alt="" coords="364,240,507,265"/>
+<area shape="poly" id="edge13_Node000004_Node000011" title=" " alt="" coords="489,194,456,231,452,228,485,191"/>
+<area shape="rect" id="Node000014" href="$logging_8hpp.html" title=" " alt="" coords="710,240,841,265"/>
+<area shape="poly" id="edge19_Node000004_Node000014" title=" " alt="" coords="542,189,718,234,716,239,541,195"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="563,533,625,559"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="597,486,597,520,591,520,591,486"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="572,339,578,373,572,374,567,339"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="584,412,591,446,586,447,579,413"/>
+<area shape="rect" id="Node000009" href="$circular__buffer_8hpp.html" title="Circular Buffer Class." alt="" coords="319,460,493,485"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="552,414,448,457,446,452,550,410"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="386,488,310,529,307,524,384,483"/>
+<area shape="poly" id="edge12_Node000010_Node000003" title=" " alt="" coords="278,412,278,520,273,520,273,412"/>
+<area shape="poly" id="edge15_Node000011_Node000007" title=" " alt="" coords="458,263,535,304,533,309,455,268"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="399,313,458,339"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="437,266,434,300,428,300,432,265"/>
+<area shape="rect" id="Node000013" href="$trace__reader_8hpp.html" title="Pure virtual TraceReader class that all trace readers must implement." alt="" coords="202,313,375,339"/>
+<area shape="poly" id="edge16_Node000011_Node000013" title=" " alt="" coords="413,268,326,310,324,305,411,263"/>
+<area shape="poly" id="edge17_Node000013_Node000010" title=" " alt="" coords="289,339,283,374,277,373,284,339"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="745,313,806,339"/>
+<area shape="poly" id="edge20_Node000014_Node000015" title=" " alt="" coords="778,266,778,300,773,300,773,266"/>
+<area shape="poly" id="edge22_Node000016_Node000004" title=" " alt="" coords="477,118,490,153,485,155,472,120"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="src/utils/circular_buffer.cpp" name="src/utils/circular_buffer.cpp">
+<area shape="rect" id="Node000001" title="Implementation of the CircularBuffer class." alt="" coords="78,5,203,45"/>
+<area shape="rect" id="Node000002" href="$circular__buffer_8hpp.html" title="Circular Buffer Class." alt="" coords="5,93,148,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,47,97,84,93,81,123,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="172,93,237,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="158,44,188,81,184,84,154,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="43,167,110,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="79,119,79,153,74,153,74,119"/>
+</map>

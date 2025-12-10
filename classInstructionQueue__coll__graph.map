@@ -1,0 +1,10 @@
+<map id="InstructionQueue" name="InstructionQueue">
+<area shape="rect" id="Node000001" title="Queue of InstructionPacket." alt="" coords="46,243,179,268"/>
+<area shape="rect" id="Node000002" href="$classQueue.html" title=" " alt="" coords="10,168,215,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,208,115,242,110,242,110,208"/>
+<area shape="rect" id="Node000003" href="$classComponent.html" title=" " alt="" coords="5,80,220,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,119,113,129,114,168,109,168,107,129,108,119"/>
+<area shape="poly" id="edge4_Node000002_Node000003" title=" " alt="" coords="115,119,115,167,110,167,110,119"/>
+<area shape="rect" id="Node000004" href="$classLinkable.html" title="Do not inherit directly from this class." alt="" coords="75,5,151,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="115,45,115,80,110,80,110,45"/>
+</map>

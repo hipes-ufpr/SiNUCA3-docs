@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['ras_0',['Ras',['../classRas.html',1,'']]],
+  ['ras_2ecpp_1',['ras.cpp',['../ras_8cpp.html',1,'']]],
+  ['ras_2ehpp_2',['ras.hpp',['../ras_8hpp.html',1,'']]],
+  ['readme_3',['readme',['../md_x86__trace__generator_2README.html',1,'README'],['../md_README.html',1,'README']]],
+  ['readnextbbl_4',['ReadNextBBl',['../classsinucaTracer_1_1DynamicTraceFile.html#ad17e40360dafd9f20d4746a109fcf885',1,'sinucaTracer::DynamicTraceFile']]],
+  ['readnextinstruction_5',['ReadNextInstruction',['../classsinucaTracer_1_1StaticTraceFile.html#a61ca6c9636ef60124bdab85fe5d4709a',1,'sinucaTracer::StaticTraceFile']]],
+  ['readnextmemaccess_6',['ReadNextMemAccess',['../classsinucaTracer_1_1MemoryTraceFile.html#a70d6e5e60e927f473e6132d801964c15',1,'sinucaTracer::MemoryTraceFile']]],
+  ['receiverequestfromconnection_7',['ReceiveRequestFromConnection',['../classComponent.html#a75bb1a9aff8e43246935b0770fb3d9ed',1,'Component']]],
+  ['receiveresponse_8',['ReceiveResponse',['../classComponent.html#a27f92b87690beb59c267a7fa2336d2ff',1,'Component']]],
+  ['registernewbranch_9',['RegisterNewBranch',['../classBranchTargetBuffer.html#acfed2fa8e2b747460a5e54a904b7f68d',1,'BranchTargetBuffer']]],
+  ['removeat_10',['removeAt',['../structDelayQueue_1_1Input.html#ae2cd9553517eae18cf95b47cd7a2caab',1,'DelayQueue::Input']]],
+  ['removefromarequestbuffer_11',['RemoveFromARequestBuffer',['../structConnection.html#afd34b975df72f4803d59e006125e4bd0',1,'Connection']]],
+  ['removefromaresponsebuffer_12',['RemoveFromAResponseBuffer',['../structConnection.html#ae59e709bb91d3962f8c551b31c6d58a1',1,'Connection']]],
+  ['requestbuffers_13',['requestBuffers',['../structConnection.html#a34c63b4fa1407436ccab3842c53494f7',1,'Connection']]],
+  ['requestquery_14',['requestQuery',['../structBTBPacket.html#aa6d2ea4ac594632b1fb1c194fb7920c3',1,'BTBPacket']]],
+  ['requestupdate_15',['requestUpdate',['../structPredictorPacket.html#aff648f247db5b9583ae973c82b905aee',1,'PredictorPacket']]],
+  ['respond_16',['Respond',['../classHardwiredPredictor.html#a06b30a9020fbd1849bf042ff5569502f',1,'HardwiredPredictor']]],
+  ['response_17',['response',['../unionFetchPacket.html#a2a78430b16529cc3ac29d456ec7bb9ee',1,'FetchPacket::response'],['../structPredictorPacket.html#a902ebd4d36afa0916606191ea3547821',1,'PredictorPacket::response']]],
+  ['responsebuffers_18',['responseBuffers',['../structConnection.html#a9c1d596618aac1fe5f77f2c39ee21134',1,'Connection']]],
+  ['ret_19',['ret',['../classHardwiredPredictor.html#ad2c580e5b7d642be9233b2de5e46e7e5',1,'HardwiredPredictor']]],
+  ['retrievebuffer_20',['RetrieveBuffer',['../classsinucaTracer_1_1TraceFileReader.html#a1482d37ee2c368347442f933ebe45bfe',1,'sinucaTracer::TraceFileReader']]],
+  ['retrievelenbytes_21',['RetrieveLenBytes',['../classsinucaTracer_1_1TraceFileReader.html#acc500a6d1fe4bc4aed3d4e68f5f23e6d',1,'sinucaTracer::TraceFileReader']]]
+];

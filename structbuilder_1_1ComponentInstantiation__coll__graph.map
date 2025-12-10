@@ -1,0 +1,5 @@
+<map id="builder::ComponentInstantiation" name="builder::ComponentInstantiation">
+<area shape="rect" id="Node000001" title="Represents an instance of a component." alt="" coords="5,93,237,119"/>
+<area shape="rect" id="Node000002" href="$classLinkable.html" title="Do not inherit directly from this class." alt="" coords="83,5,159,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,45,124,93,119,93,119,45"/>
+</map>

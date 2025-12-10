@@ -1,0 +1,6 @@
+<map id="builder::Parameter" name="builder::Parameter">
+<area shape="rect" id="Node000001" title="Intermediate representation of a parameter value for a component. Tagged union." alt="" coords="23,5,165,31"/>
+<area shape="rect" id="Node000002" href="$structbuilder_1_1ParameterArray.html" title="Intermediate representation of an array of parameters. This is a helper struct managed by Parameter,..." alt="" coords="5,93,183,119"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="53,40,38,56,36,66,41,75,65,91,62,95,37,79,31,67,33,53,49,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,82,118,69,118,55,104,33,108,30,123,54,124,70,117,84"/>
+</map>

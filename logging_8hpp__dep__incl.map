@@ -1,0 +1,142 @@
+<map id="src/utils/logging.hpp" name="src/utils/logging.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="211,5,365,31"/>
+<area shape="rect" id="Node000002" href="$yaml__parser_8cpp.html" title="Implementation of YAML parsing for the SiNUCA3." alt="" coords="5,79,200,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,38,134,81,132,76,245,33"/>
+<area shape="rect" id="Node000003" href="$sinuca3_8hpp.html" title=" " alt="" coords="3101,79,3224,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="379,19,3101,86,3101,91,379,24"/>
+<area shape="rect" id="Node000023" href="$delay__queue_8hpp.html" title="Queue designed to simulate delay." alt="" coords="4875,159,5047,199"/>
+<area shape="poly" id="edge88_Node000001_Node000023" title=" " alt="" coords="378,18,1520,35,2365,52,3236,76,3483,82,3693,83,4049,83,4220,87,4403,98,4611,118,4856,149,4894,157,4893,162,4856,155,4611,123,4403,103,4220,92,4049,88,3693,88,3483,87,3236,81,2365,57,1520,40,378,23"/>
+<area shape="rect" id="Node000047" href="$dynamic__trace__writer_8cpp.html" title=" " alt="" coords="30,357,186,412"/>
+<area shape="poly" id="edge89_Node000001_Node000047" title=" " alt="" coords="279,44,123,358,119,356,274,42"/>
+<area shape="rect" id="Node000049" href="$memory__trace__writer_8cpp.html" title=" " alt="" coords="210,357,366,412"/>
+<area shape="poly" id="edge90_Node000001_Node000049" title=" " alt="" coords="291,45,291,357,285,357,285,45"/>
+<area shape="rect" id="Node000004" href="$engine__builder_8cpp.html" title="Takes a config file path and instantiates the simulation engine." alt="" coords="4005,167,4216,192"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="3238,92,3564,108,3775,125,3987,149,4064,164,4063,169,3986,155,3774,130,3564,113,3238,97"/>
+<area shape="rect" id="Node000005" href="$custom_8cpp_source.html" title=" " alt="" coords="4239,262,4419,302"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="3238,91,3532,95,3920,105,4267,122,4381,134,4417,142,4435,150,4444,164,4446,178,4436,208,4424,226,4408,241,4374,264,4371,260,4405,237,4420,222,4431,205,4441,178,4439,166,4432,154,4415,147,4381,140,4266,128,3920,110,3531,100,3238,96"/>
+<area shape="rect" id="Node000006" href="$custom__example_8cpp.html" title="Implements an example custom component to show how to create them." alt="" coords="4035,262,4215,302"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="3238,91,3397,94,3595,103,3785,121,3863,134,3921,150,3944,161,3960,174,3975,189,3995,204,4090,259,4087,264,3992,209,3971,193,3956,178,3941,166,3919,154,3861,139,3784,126,3594,109,3397,100,3237,96"/>
+<area shape="rect" id="Node000007" href="$custom__example_8hpp.html" title="The public API of an example custom component, to show how to create them." alt="" coords="4241,159,4421,199"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="3238,89,3415,90,3661,98,3943,116,4087,131,4228,149,4265,157,4264,162,4228,155,4087,136,3942,121,3660,103,3415,96,3238,95"/>
+<area shape="rect" id="Node000008" href="$engine_8cpp.html" title="Implementation of the simulation engine." alt="" coords="377,167,541,192"/>
+<area shape="poly" id="edge9_Node000003_Node000008" title=" " alt="" coords="3087,96,1770,114,1007,131,726,142,560,155,495,169,494,164,560,149,725,137,1006,126,1769,108,3087,91"/>
+<area shape="rect" id="Node000009" href="$main_8cpp.html" title=" " alt="" coords="1834,467,1939,493"/>
+<area shape="poly" id="edge10_Node000003_Node000009" title=" " alt="" coords="3238,91,3698,95,4361,106,4973,123,5181,135,5247,142,5282,149,5339,180,5364,198,5385,219,5399,241,5406,264,5402,287,5386,311,5366,324,5330,335,5218,357,5057,376,4854,393,4353,422,3776,444,3185,460,2641,471,1940,481,1940,476,2641,466,3185,455,3776,439,4353,416,4854,388,5057,370,5218,351,5329,330,5363,319,5382,307,5397,286,5400,264,5395,243,5381,222,5361,202,5336,184,5280,155,5246,147,5181,140,4973,129,4361,111,3698,100,3238,96"/>
+<area shape="rect" id="Node000010" href="$simple__core_8cpp.html" title=" " alt="" coords="2453,262,2624,302"/>
+<area shape="poly" id="edge11_Node000003_Node000010" title=" " alt="" coords="3088,96,2911,99,2697,107,2596,115,2509,125,2445,138,2424,146,2411,154,2403,166,2401,178,2412,205,2425,223,2441,238,2480,260,2477,264,2438,242,2421,226,2407,208,2396,178,2398,164,2407,150,2421,141,2443,133,2508,120,2596,109,2697,102,2911,93,3087,90"/>
+<area shape="rect" id="Node000011" href="$simple__core_8hpp.html" title=" " alt="" coords="2422,159,2594,199"/>
+<area shape="poly" id="edge12_Node000003_Node000011" title=" " alt="" coords="3087,100,2871,118,2739,134,2607,155,2574,162,2573,157,2606,149,2738,129,2870,113,3087,94"/>
+<area shape="rect" id="Node000012" href="$std__components_8cpp.html" title="Declaration of the std components." alt="" coords="3387,365,3547,405"/>
+<area shape="poly" id="edge59_Node000003_Node000012" title=" " alt="" coords="3238,101,3885,110,4089,115,4267,123,4397,134,4437,141,4458,150,4466,166,4469,187,4463,237,4449,284,4434,311,4415,322,4384,331,4297,347,4181,359,4047,369,3768,381,3547,385,3547,380,3768,375,4047,364,4180,354,4296,342,4383,326,4412,317,4430,307,4444,282,4458,236,4464,187,4461,167,4454,154,4436,146,4396,139,4267,128,4089,120,3884,115,3237,107"/>
+<area shape="rect" id="Node000013" href="$engine__debug__component_8cpp.html" title="Implementation of the EngineDebugComponent. THIS FILE SHALL ONLY BE CALLED BY CODE PATHS THAT ONLY CO..." alt="" coords="2976,262,3200,302"/>
+<area shape="poly" id="edge15_Node000003_Node000013" title=" " alt="" coords="3142,115,3127,133,3114,153,3104,182,3097,211,3091,262,3086,262,3092,210,3099,180,3110,151,3123,130,3138,112"/>
+<area shape="rect" id="Node000014" href="$engine__debug__component_8hpp.html" title="API of the EngineDebugComponent. THIS FILE SHALL ONLY BE INCLUDED BY CODE PATHS THAT ONLY COMPILE IN ..." alt="" coords="3125,159,3350,199"/>
+<area shape="poly" id="edge16_Node000003_Node000014" title=" " alt="" coords="3184,113,3223,157,3219,161,3180,116"/>
+<area shape="rect" id="Node000015" href="$simple__execution__unit_8cpp.html" title="Implementation of the SimpleExecutionUnit." alt="" coords="1944,255,2139,309"/>
+<area shape="poly" id="edge19_Node000003_Node000015" title=" " alt="" coords="3088,97,2832,103,2500,115,2208,132,2111,143,2081,148,2067,154,2051,176,2042,202,2040,230,2040,254,2035,255,2034,229,2037,201,2046,173,2064,150,2080,143,2110,137,2207,127,2500,110,2831,98,3088,92"/>
+<area shape="rect" id="Node000016" href="$simple__execution__unit_8hpp.html" title=" " alt="" coords="1808,152,2003,207"/>
+<area shape="poly" id="edge20_Node000003_Node000016" title=" " alt="" coords="3087,95,2900,96,2635,104,2331,122,2174,136,2022,155,2004,157,2003,152,2021,149,2174,131,2330,117,2635,99,2900,91,3087,90"/>
+<area shape="rect" id="Node000017" href="$fetcher_8cpp.html" title="API of the Fetcher, a generic component for simulating logic in the first stage of a pipeline,..." alt="" coords="2749,262,2901,302"/>
+<area shape="poly" id="edge23_Node000003_Node000017" title=" " alt="" coords="3088,98,3016,104,2941,115,2876,131,2852,141,2835,154,2822,179,2817,208,2818,237,2823,261,2817,262,2813,237,2811,208,2816,177,2831,150,2849,137,2874,126,2940,109,3016,99,3088,93"/>
+<area shape="rect" id="Node000018" href="$fetcher_8hpp.html" title="API of the Fetcher, a generic component for simulating logic in the first stage of a pipeline,..." alt="" coords="2619,159,2771,199"/>
+<area shape="poly" id="edge24_Node000003_Node000018" title=" " alt="" coords="3088,105,2949,125,2790,155,2760,162,2758,157,2789,149,2948,120,3087,100"/>
+<area shape="rect" id="Node000019" href="$simple__instruction__memory_8cpp.html" title="Implementation of the SimpleInstructionMemory." alt="" coords="3224,255,3429,309"/>
+<area shape="poly" id="edge27_Node000003_Node000019" title=" " alt="" coords="3239,92,3272,98,3306,108,3338,126,3364,151,3374,177,3371,205,3361,232,3348,256,3343,253,3356,230,3366,204,3368,177,3359,153,3335,130,3304,113,3271,103,3238,97"/>
+<area shape="rect" id="Node000020" href="$simple__instruction__memory_8hpp.html" title=" " alt="" coords="2845,152,3051,207"/>
+<area shape="poly" id="edge28_Node000003_Node000020" title=" " alt="" coords="3122,112,3014,154,3012,150,3120,107"/>
+<area shape="rect" id="Node000021" href="$simple__memory_8cpp.html" title="Implementation of the SimpleMemory." alt="" coords="2213,262,2429,302"/>
+<area shape="poly" id="edge31_Node000003_Node000021" title=" " alt="" coords="3087,97,2910,103,2694,114,2501,131,2433,142,2395,154,2369,178,2350,207,2337,237,2328,263,2323,261,2332,235,2345,204,2365,174,2392,150,2432,137,2500,126,2693,109,2910,98,3087,92"/>
+<area shape="rect" id="Node000022" href="$simple__memory_8hpp.html" title=" " alt="" coords="2078,159,2295,199"/>
+<area shape="poly" id="edge32_Node000003_Node000022" title=" " alt="" coords="3088,97,2752,113,2534,130,2315,155,2271,162,2270,157,2314,149,2534,125,2752,108,3087,92"/>
+<area shape="poly" id="edge35_Node000003_Node000023" title=" " alt="" coords="3237,91,3565,95,4034,104,4508,122,4707,134,4856,149,4895,157,4894,162,4856,155,4706,139,4508,127,4034,110,3565,100,3237,96"/>
+<area shape="rect" id="Node000025" href="$tests_8cpp.html" title=" " alt="" coords="5041,269,5145,295"/>
+<area shape="poly" id="edge60_Node000003_Node000025" title=" " alt="" coords="3238,91,4115,110,4580,127,4737,138,4813,150,4831,162,4841,176,4850,191,4865,204,4908,225,4945,234,4983,240,5030,252,5068,267,5066,272,5029,257,4982,245,4944,239,4906,230,4863,209,4846,194,4836,179,4827,166,4811,154,4736,143,4579,132,4115,115,3237,96"/>
+<area shape="rect" id="Node000026" href="$queue_8cpp.html" title=" " alt="" coords="4671,262,4823,302"/>
+<area shape="poly" id="edge38_Node000003_Node000026" title=" " alt="" coords="3238,91,3542,95,3956,104,4342,122,4481,134,4563,149,4587,161,4603,174,4638,205,4719,260,4716,264,4634,209,4600,178,4584,165,4562,155,4481,139,4341,127,3956,110,3542,100,3238,96"/>
+<area shape="rect" id="Node000027" href="$queue_8hpp.html" title=" " alt="" coords="4648,159,4800,199"/>
+<area shape="poly" id="edge39_Node000003_Node000027" title=" " alt="" coords="3238,91,3526,95,3929,105,4334,123,4502,135,4630,149,4664,157,4663,162,4629,155,4502,140,4333,128,3929,111,3526,101,3238,96"/>
+<area shape="rect" id="Node000028" href="$queues_8hpp_source.html" title=" " alt="" coords="4495,262,4647,302"/>
+<area shape="poly" id="edge45_Node000003_Node000028" title=" " alt="" coords="3238,91,3550,96,3968,107,4344,124,4469,136,4509,142,4529,150,4551,175,4564,205,4571,235,4573,261,4568,262,4566,236,4559,206,4547,177,4527,154,4507,148,4469,141,4344,130,3968,112,3550,101,3238,96"/>
+<area shape="rect" id="Node000029" href="$hardwired__predictor_8cpp.html" title="Implementation of the HardwiredPredictor, a component that always predicts or misses a specific set o..." alt="" coords="3555,255,3715,309"/>
+<area shape="poly" id="edge46_Node000003_Node000029" title=" " alt="" coords="3238,91,3333,95,3439,104,3534,122,3571,134,3598,150,3617,173,3628,201,3637,254,3632,255,3623,202,3612,176,3594,154,3569,139,3533,127,3438,110,3332,100,3238,96"/>
+<area shape="rect" id="Node000030" href="$hardwired__predictor_8hpp.html" title="API of the HardwiredPredictor, a component that always predicts or misses a specific set of instructi..." alt="" coords="3424,152,3584,207"/>
+<area shape="poly" id="edge47_Node000003_Node000030" title=" " alt="" coords="3224,105,3406,149,3424,154,3423,159,3405,155,3223,110"/>
+<area shape="rect" id="Node000031" href="$interleavedBTB_8cpp_source.html" title=" " alt="" coords="3789,262,4011,302"/>
+<area shape="poly" id="edge50_Node000003_Node000031" title=" " alt="" coords="3238,91,3409,94,3615,104,3712,111,3796,121,3859,134,3880,141,3894,150,3910,177,3915,207,3913,237,3908,262,3903,261,3908,237,3909,207,3905,178,3890,154,3878,146,3858,139,3795,126,3712,117,3615,109,3409,100,3238,96"/>
+<area shape="rect" id="Node000032" href="$interleavedBTB_8hpp.html" title="Implementation of Interleaved Branch Target Buffer." alt="" coords="3658,159,3881,199"/>
+<area shape="poly" id="edge51_Node000003_Node000032" title=" " alt="" coords="3238,98,3421,119,3640,149,3681,157,3680,162,3640,155,3421,124,3237,103"/>
+<area shape="rect" id="Node000033" href="$ras_8cpp.html" title="Implementation of the Ras, a simple return address stack." alt="" coords="5220,262,5372,302"/>
+<area shape="poly" id="edge54_Node000003_Node000033" title=" " alt="" coords="3238,90,3693,91,4347,97,4669,105,4948,115,5150,130,5214,139,5247,150,5270,174,5285,205,5294,235,5297,261,5292,262,5288,237,5280,206,5266,177,5244,154,5212,144,5150,135,4947,121,4669,110,4346,103,3693,96,3238,95"/>
+<area shape="rect" id="Node000034" href="$ras_8hpp.html" title="API of the Ras. A simple, generic return address stack. It does not care at all about wrong predictio..." alt="" coords="5081,159,5233,199"/>
+<area shape="poly" id="edge55_Node000003_Node000034" title=" " alt="" coords="3238,90,3601,92,4128,100,4666,118,4891,132,5060,149,5097,157,5095,162,5060,155,4890,137,4666,123,4128,105,3601,97,3238,95"/>
+<area shape="rect" id="Node000035" href="$file__handler_8hpp_source.html" title=" " alt="" coords="967,159,1121,199"/>
+<area shape="poly" id="edge61_Node000003_Node000035" title=" " alt="" coords="3088,95,2703,96,2140,104,1843,111,1564,122,1323,136,1142,155,1106,162,1105,157,1141,149,1323,131,1563,116,1843,106,2140,98,2703,91,3087,90"/>
+<area shape="rect" id="Node000039" href="$trace__reader_8cpp_source.html" title=" " alt="" coords="1146,460,1313,500"/>
+<area shape="poly" id="edge82_Node000003_Node000039" title=" " alt="" coords="3087,95,2482,98,1578,107,1131,114,748,124,477,138,398,146,365,154,351,172,341,190,336,208,335,226,345,265,366,308,383,333,400,352,418,367,437,377,482,393,539,409,591,422,658,433,825,452,1000,465,1146,472,1146,478,1000,470,824,457,658,439,590,427,538,415,481,398,435,382,415,371,396,356,379,337,362,311,340,267,330,227,331,207,336,188,346,169,363,150,397,140,477,132,748,119,1131,109,1578,101,2482,93,3087,90"/>
+<area shape="rect" id="Node000040" href="$dynamic__trace__reader_8cpp_source.html" title=" " alt="" coords="1225,365,1423,405"/>
+<area shape="poly" id="edge83_Node000003_Node000040" title=" " alt="" coords="3088,96,2762,102,2315,113,1896,130,1743,142,1654,155,1595,173,1550,193,1509,219,1459,257,1433,283,1409,311,1348,366,1344,362,1405,307,1429,279,1456,253,1506,215,1548,188,1593,168,1653,149,1743,136,1896,125,2315,108,2762,97,3087,91"/>
+<area shape="rect" id="Node000041" href="$memory__trace__reader_8hpp.html" title="Class implementation of the memory trace reader." alt="" coords="1672,262,1869,302"/>
+<area shape="poly" id="edge84_Node000003_Node000041" title=" " alt="" coords="3088,96,2775,101,2356,111,1980,128,1855,140,1816,147,1798,154,1780,178,1772,207,1769,236,1771,262,1765,262,1764,236,1766,206,1775,175,1794,150,1815,142,1854,135,1979,123,2356,105,2775,95,3088,91"/>
+<area shape="rect" id="Node000043" href="$static__trace__reader_8hpp.html" title="Class implementation of the static trace reader." alt="" coords="1469,262,1648,302"/>
+<area shape="poly" id="edge85_Node000003_Node000043" title=" " alt="" coords="3088,96,2784,102,2372,112,1987,130,1848,141,1766,155,1711,177,1660,207,1582,264,1579,260,1657,202,1709,172,1765,149,1847,136,1987,124,2372,107,2784,96,3088,91"/>
+<area shape="rect" id="Node000046" href="$sinuca3__pintool_8cpp.html" title="Implementation of the SiNUCA3 x86_64 tracer based on Intel Pin." alt="" coords="551,365,707,405"/>
+<area shape="poly" id="edge86_Node000003_Node000046" title=" " alt="" coords="3088,95,2672,94,2054,100,1728,106,1420,117,1155,133,955,155,896,161,844,163,752,166,711,173,672,189,635,215,598,256,591,269,589,282,592,311,604,339,618,363,613,366,599,342,587,312,583,282,586,267,594,253,632,211,670,184,709,168,751,160,843,157,896,156,954,149,1154,128,1420,112,1727,101,2054,94,2672,89,3088,89"/>
+<area shape="rect" id="Node000051" href="$static__trace__writer_8cpp.html" title=" " alt="" coords="1005,357,1161,412"/>
+<area shape="poly" id="edge87_Node000003_Node000051" title=" " alt="" coords="3088,95,2768,98,2314,106,1855,124,1663,137,1519,155,1420,169,1343,183,1307,193,1270,208,1230,228,1186,257,1167,274,1145,300,1103,359,1098,355,1141,297,1164,270,1182,253,1228,224,1268,203,1305,188,1341,177,1419,164,1518,149,1663,132,1854,118,2314,101,2768,92,3088,90"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="4333,213,4332,262,4327,262,4328,213"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="4281,208,4165,264,4163,260,4279,203"/>
+<area shape="poly" id="edge13_Node000011_Node000010" title=" " alt="" coords="2520,212,2535,261,2530,263,2515,213"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="2558,204,2638,253,2656,268,2668,283,2681,296,2701,307,2758,325,2835,339,3025,361,3225,373,3387,379,3386,384,3224,378,3025,366,2834,345,2757,330,2699,312,2678,300,2665,286,2652,272,2634,257,2555,208"/>
+<area shape="poly" id="edge18_Node000014_Node000012" title=" " alt="" coords="3364,201,3407,222,3443,253,3459,280,3468,310,3471,364,3466,364,3463,311,3455,282,3439,256,3404,227,3362,206"/>
+<area shape="poly" id="edge17_Node000014_Node000013" title=" " alt="" coords="3199,209,3117,264,3114,260,3196,205"/>
+<area shape="poly" id="edge22_Node000016_Node000012" title=" " alt="" coords="1904,220,1910,267,1919,289,1934,307,1955,315,1998,323,2140,337,2336,349,2565,359,3037,373,3386,379,3386,385,3037,378,2565,364,2335,355,2139,343,1997,329,1953,321,1930,311,1914,292,1905,269,1899,221"/>
+<area shape="poly" id="edge21_Node000016_Node000015" title=" " alt="" coords="1953,213,2007,252,2004,257,1950,217"/>
+<area shape="poly" id="edge26_Node000018_Node000012" title=" " alt="" coords="2699,212,2709,263,2721,287,2739,307,2773,321,2835,333,3014,354,3217,369,3387,377,3386,383,3216,374,3013,359,2834,339,2771,326,2736,312,2717,290,2704,265,2693,214"/>
+<area shape="poly" id="edge25_Node000018_Node000017" title=" " alt="" coords="2732,206,2802,260,2799,264,2729,210"/>
+<area shape="poly" id="edge30_Node000020_Node000012" title=" " alt="" coords="2944,220,2946,266,2953,289,2966,307,2995,327,3037,343,3090,355,3149,364,3275,376,3386,380,3386,386,3275,381,3149,370,3089,360,3036,348,2992,332,2962,311,2948,291,2941,267,2939,220"/>
+<area shape="poly" id="edge29_Node000020_Node000019" title=" " alt="" coords="3060,208,3229,252,3227,257,3059,213"/>
+<area shape="poly" id="edge34_Node000022_Node000012" title=" " alt="" coords="2183,213,2181,237,2182,263,2189,287,2203,307,2220,314,2254,321,2367,334,2708,356,3093,370,3386,379,3386,384,3093,376,2708,361,2366,340,2253,327,2218,319,2200,311,2184,289,2177,264,2175,237,2177,213"/>
+<area shape="poly" id="edge33_Node000022_Node000021" title=" " alt="" coords="2224,205,2298,260,2295,264,2221,210"/>
+<area shape="rect" id="Node000024" href="$delay__queue_8cpp.html" title="Implementation of a test of the delay queue." alt="" coords="4847,262,5017,302"/>
+<area shape="poly" id="edge36_Node000023_Node000024" title=" " alt="" coords="4955,213,4940,263,4935,261,4949,212"/>
+<area shape="poly" id="edge37_Node000023_Node000025" title=" " alt="" coords="4999,206,5080,267,5076,271,4995,210"/>
+<area shape="poly" id="edge40_Node000027_Node000024" title=" " alt="" coords="4777,203,4894,260,4892,264,4774,208"/>
+<area shape="poly" id="edge44_Node000027_Node000025" title=" " alt="" coords="4805,200,4819,204,4925,226,4972,236,5030,252,5069,267,5067,272,5029,257,4970,241,4924,231,4818,209,4803,205"/>
+<area shape="poly" id="edge41_Node000027_Node000026" title=" " alt="" coords="4734,212,4745,261,4740,263,4729,213"/>
+<area shape="poly" id="edge42_Node000027_Node000028" title=" " alt="" coords="4685,209,4601,264,4598,260,4682,205"/>
+<area shape="poly" id="edge43_Node000028_Node000012" title=" " alt="" coords="4497,308,4476,312,4345,332,4211,348,3948,370,3717,381,3547,385,3547,380,3717,376,3948,365,4210,343,4345,327,4476,307,4496,303"/>
+<area shape="poly" id="edge49_Node000030_Node000012" title=" " alt="" coords="3502,221,3488,310,3475,365,3469,364,3483,309,3497,220"/>
+<area shape="poly" id="edge48_Node000030_Node000029" title=" " alt="" coords="3550,213,3602,252,3599,257,3547,217"/>
+<area shape="poly" id="edge53_Node000032_Node000012" title=" " alt="" coords="3770,214,3758,264,3746,289,3729,311,3688,341,3641,362,3593,375,3547,382,3546,377,3592,370,3639,357,3685,337,3725,307,3741,286,3753,262,3764,213"/>
+<area shape="poly" id="edge52_Node000032_Node000031" title=" " alt="" coords="3807,206,3877,260,3874,264,3803,210"/>
+<area shape="poly" id="edge57_Node000034_Node000012" title=" " alt="" coords="5171,212,5176,236,5177,263,5173,289,5159,311,5134,322,5086,332,4928,348,4710,361,4454,370,3929,381,3547,386,3547,380,3929,376,4454,365,4709,355,4928,343,5085,327,5133,317,5156,307,5168,287,5172,262,5171,237,5166,213"/>
+<area shape="poly" id="edge58_Node000034_Node000025" title=" " alt="" coords="5140,212,5103,270,5099,267,5136,209"/>
+<area shape="poly" id="edge56_Node000034_Node000033" title=" " alt="" coords="5196,205,5272,260,5268,264,5193,210"/>
+<area shape="rect" id="Node000036" href="$file__handler_8cpp.html" title=" " alt="" coords="789,262,942,302"/>
+<area shape="poly" id="edge62_Node000035_Node000036" title=" " alt="" coords="1000,208,900,264,897,260,997,204"/>
+<area shape="rect" id="Node000037" href="$dynamic__trace__reader_8hpp.html" title="Class implementation of the dynamic trace reader." alt="" coords="1197,262,1395,302"/>
+<area shape="poly" id="edge63_Node000035_Node000037" title=" " alt="" coords="1105,202,1250,259,1248,264,1103,207"/>
+<area shape="poly" id="edge68_Node000035_Node000041" title=" " alt="" coords="1135,186,1373,211,1517,229,1660,252,1696,259,1695,265,1660,257,1516,235,1372,216,1134,191"/>
+<area shape="poly" id="edge71_Node000035_Node000043" title=" " alt="" coords="1135,196,1469,261,1468,266,1134,201"/>
+<area shape="rect" id="Node000045" href="$dynamic__trace__writer_8hpp.html" title=" " alt="" coords="377,255,533,309"/>
+<area shape="poly" id="edge73_Node000035_Node000045" title=" " alt="" coords="954,198,596,257,533,269,532,263,596,252,953,192"/>
+<area shape="rect" id="Node000048" href="$memory__trace__writer_8hpp.html" title=" " alt="" coords="609,255,765,309"/>
+<area shape="poly" id="edge76_Node000035_Node000048" title=" " alt="" coords="963,206,777,257,766,260,764,255,775,252,961,200"/>
+<area shape="rect" id="Node000050" href="$static__trace__writer_8hpp.html" title=" " alt="" coords="966,255,1122,309"/>
+<area shape="poly" id="edge79_Node000035_Node000050" title=" " alt="" coords="1047,213,1047,254,1041,254,1041,213"/>
+<area shape="rect" id="Node000038" href="$sinuca_2trace__reader_8hpp_source.html" title=" " alt="" coords="1475,365,1642,405"/>
+<area shape="poly" id="edge64_Node000037_Node000038" title=" " alt="" coords="1359,304,1510,362,1509,367,1357,309"/>
+<area shape="poly" id="edge67_Node000037_Node000040" title=" " alt="" coords="1308,315,1321,364,1316,365,1302,316"/>
+<area shape="poly" id="edge65_Node000038_Node000009" title=" " alt="" coords="1639,406,1847,465,1846,470,1638,411"/>
+<area shape="poly" id="edge66_Node000038_Node000039" title=" " alt="" coords="1480,411,1297,463,1295,457,1478,406"/>
+<area shape="poly" id="edge69_Node000041_Node000038" title=" " alt="" coords="1720,310,1600,367,1597,362,1718,305"/>
+<area shape="rect" id="Node000042" href="$memory__trace__reader_8cpp_source.html" title=" " alt="" coords="1673,365,1869,405"/>
+<area shape="poly" id="edge70_Node000041_Node000042" title=" " alt="" coords="1773,316,1773,365,1768,365,1768,316"/>
+<area shape="poly" id="edge72_Node000043_Node000038" title=" " alt="" coords="1561,316,1561,365,1556,365,1556,316"/>
+<area shape="poly" id="edge74_Node000045_Node000046" title=" " alt="" coords="513,314,598,362,595,367,510,318"/>
+<area shape="poly" id="edge75_Node000045_Node000047" title=" " alt="" coords="364,312,198,360,187,363,186,358,197,355,363,307"/>
+<area shape="poly" id="edge77_Node000048_Node000046" title=" " alt="" coords="667,323,643,366,638,363,663,320"/>
+<area shape="poly" id="edge78_Node000048_Node000049" title=" " alt="" coords="596,309,367,366,365,361,595,304"/>
+<area shape="poly" id="edge80_Node000050_Node000046" title=" " alt="" coords="954,312,708,369,707,364,952,307"/>
+<area shape="poly" id="edge81_Node000050_Node000051" title=" " alt="" coords="1062,321,1075,356,1070,358,1057,323"/>
+</map>

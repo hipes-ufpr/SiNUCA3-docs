@@ -1,0 +1,7 @@
+<map id="EngineBuilder::GetComponentDefinitionOrMakeDummy" name="EngineBuilder::GetComponentDefinitionOrMakeDummy">
+<area shape="rect" id="Node000001" title="If there&#39;s a component definition with the name passed, returns a pointer to it. Otherwise creates a ..." alt="" coords="5,27,224,67"/>
+<area shape="rect" id="Node000002" href="$classEngineBuilder.html#acc92c8bbbdf096fe15fd3e3ba171ae15" title="Adds a definition not yet defined." alt="" coords="272,5,532,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,34,264,29,264,35,224,39"/>
+<area shape="rect" id="Node000003" href="$classEngineBuilder.html#ad0f778777dce49030e38f24c45a12479" title="Returns a definition with the name passed by reference. If it does not already exists,..." alt="" coords="293,55,511,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,55,279,61,278,66,224,61"/>
+</map>

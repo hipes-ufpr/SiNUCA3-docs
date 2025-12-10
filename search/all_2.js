@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['bblid_0',['bblId',['../classsinucaTracer_1_1DynamicTraceFile.html#aeac1cc52c4f376d199e2f7b02ee8f305',1,'sinucaTracer::DynamicTraceFile']]],
+  ['bimodal_5fpredictor_2ecpp_1',['bimodal_predictor.cpp',['../bimodal__predictor_8cpp.html',1,'']]],
+  ['bimodal_5fpredictor_2ehpp_2',['bimodal_predictor.hpp',['../bimodal__predictor_8hpp.html',1,'']]],
+  ['bimodalpredictor_3',['BimodalPredictor',['../classBimodalPredictor.html',1,'']]],
+  ['binarybblssize_4',['binaryBBLsSize',['../classsinucaTracer_1_1SinucaTraceReader.html#a1def080d40d472aec18898804475a9ba',1,'sinucaTracer::SinucaTraceReader']]],
+  ['binarydict_5',['binaryDict',['../classsinucaTracer_1_1SinucaTraceReader.html#a74d257e1f6711222320d8c8e043b4da1',1,'sinucaTracer::SinucaTraceReader']]],
+  ['binarytotalbbls_6',['binaryTotalBBLs',['../classsinucaTracer_1_1SinucaTraceReader.html#a6e1e95d37a114195f73787604a9ca7f5',1,'sinucaTracer::SinucaTraceReader']]],
+  ['branch_7',['Branch',['../default__packets_8hpp.html#a7d4b945d09091ef987b56e15941d8895',1,'default_packets.hpp']]],
+  ['branchstate_8',['branchState',['../structBTBPacket.html#a852f2c355082ca10a86807d3fb480781',1,'BTBPacket']]],
+  ['branchtargetbuffer_9',['BranchTargetBuffer',['../classBranchTargetBuffer.html',1,'']]],
+  ['branchtypes_10',['branchTypes',['../structBTBEntry.html#aa2c945005a75d7c6399ac3c4048fe5a2',1,'BTBEntry']]],
+  ['btb_11',['btb',['../classBranchTargetBuffer.html#afd37c0b7636420f97dfa34062a120ae0',1,'BranchTargetBuffer']]],
+  ['btbentry_12',['BTBEntry',['../structBTBEntry.html',1,'']]],
+  ['btbpacket_13',['BTBPacket',['../structBTBPacket.html',1,'']]],
+  ['bufactivesize_14',['bufActiveSize',['../classsinucaTracer_1_1TraceFileReader.html#ae1d925643f128742f11e703ee9a20680',1,'sinucaTracer::TraceFileReader']]],
+  ['buffer_15',['buffer',['../classCircularBuffer.html#adb0c1121811f26959027dd8229f63637',1,'CircularBuffer']]],
+  ['buffersize_16',['bufferSize',['../classCircularBuffer.html#a41d88231d15774c59ea4d070561d8a5c',1,'CircularBuffer']]],
+  ['buildengine_17',['BuildEngine',['../classEngineBuilder.html#a63f9285bfd93f4fe5ae81374c361da8e',1,'EngineBuilder']]],
+  ['building_18',['Building',['../md_README.html#autotoc_md3',1,'']]]
+];

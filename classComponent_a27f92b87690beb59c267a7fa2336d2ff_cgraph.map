@@ -1,0 +1,5 @@
+<map id="Component::ReceiveResponse" name="Component::ReceiveResponse">
+<area shape="rect" id="Node000001" title="Receives a response from another component." alt="" coords="5,5,225,31"/>
+<area shape="rect" id="Node000002" href="$classLinkable.html#aa633b394bf014d9ddc47a91e17b8ce3d" title="Gets a response message in the parameter. (The other calls this method)" alt="" coords="273,5,489,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,15,260,15,260,21,226,21"/>
+</map>

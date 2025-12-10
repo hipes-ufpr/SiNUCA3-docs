@@ -1,0 +1,13 @@
+<map id="src/engine/component.hpp" name="src/engine/component.hpp">
+<area shape="rect" id="Node000001" title="Public API of the component template class." alt="" coords="62,5,257,31"/>
+<area shape="rect" id="Node000002" href="$linkable_8hpp.html" title="Public API of the Linkable class." alt="" coords="85,79,234,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,31,162,65,157,65,157,31"/>
+<area shape="rect" id="Node000003" href="$config_8hpp.html" title="Configuration public API for SiNUCA3." alt="" coords="5,152,137,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="147,106,98,145,95,141,144,102"/>
+<area shape="rect" id="Node000005" href="$circular__buffer_8hpp.html" title="Circular Buffer Class." alt="" coords="161,152,336,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="175,102,225,141,222,145,172,106"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="40,225,103,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="74,178,74,212,69,212,69,178"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="215,225,282,251"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="251,178,251,212,246,212,246,178"/>
+</map>

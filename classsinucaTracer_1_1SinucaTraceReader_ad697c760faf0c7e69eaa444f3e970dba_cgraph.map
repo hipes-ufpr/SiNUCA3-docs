@@ -1,0 +1,7 @@
+<map id="sinucaTracer::SinucaTraceReader::GenerateBinaryDict" name="sinucaTracer::SinucaTraceReader::GenerateBinaryDict">
+<area shape="rect" id="Node000001" title="Fill instructions dictionary." alt="" coords="5,37,209,77"/>
+<area shape="rect" id="Node000002" href="$classsinucaTracer_1_1StaticTraceFile.html#a010ab70815c724b6be5f72be6474f039" title="Retrieves number of instructions of new basic block." alt="" coords="259,5,442,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,41,245,36,246,42,210,47"/>
+<area shape="rect" id="Node000003" href="$classsinucaTracer_1_1StaticTraceFile.html#a61ca6c9636ef60124bdab85fe5d4709a" title="Fills struct with static info about the instruction." alt="" coords="257,69,444,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,68,244,73,243,78,209,73"/>
+</map>

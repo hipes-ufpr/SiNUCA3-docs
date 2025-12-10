@@ -1,0 +1,7 @@
+<map id="DelayQueue::Enqueue" name="DelayQueue::Enqueue">
+<area shape="rect" id="Node000001" title="No insertion if full. If empty, the queueFirst is set with new elemToInsert. Otherwise,..." alt="" coords="5,5,172,31"/>
+<area shape="rect" id="Node000002" href="$classCircularBuffer.html#a1bab68c69281c3740f45be5d78604712" title="Inserts the element at the &quot;top&quot; of the buffer." alt="" coords="220,5,395,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,15,206,15,206,21,172,21"/>
+<area shape="rect" id="Node000003" href="$classCircularBuffer.html#ab06acc73323bb95eff51bcbc7adf868f" title="Returns a boolean indicating whether the Buffer is full." alt="" coords="443,5,596,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="395,15,429,15,429,21,395,21"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="EngineBuilder::FillParametersAndClass" name="EngineBuilder::FillParametersAndClass">
+<area shape="rect" id="Node000001" title="Fills the parameters and the class of a component. Parameter are translated with Yaml2Parameter." alt="" coords="5,76,219,116"/>
+<area shape="rect" id="Node000002" href="$classEngineBuilder.html#a23544ba8a2a944e51144c6df7479d1dd" title="Translates YAML to a parameter. This may recursively call AddComponentDefinitionFromYamlMapping." alt="" coords="267,109,493,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,103,253,107,253,112,219,109"/>
+<area shape="rect" id="Node000003" href="$classEngineBuilder.html#af8a3a0b091e69f92592b492358cccb44" title="Simply adds a definition, recursively. Returns non&#45;zero on error." alt="" coords="541,5,761,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="410,106,540,55,565,47,566,52,542,60,412,111"/>
+<area shape="rect" id="Node000005" href="$classEngineBuilder.html#a98570b2ba38969a826b5deeb6664f781" title="If there&#39;s a component definition with the name passed, returns a pointer to it. Otherwise creates a ..." alt="" coords="542,69,761,109"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="488,106,528,101,529,106,488,111"/>
+<area shape="rect" id="Node000007" href="$classEngineBuilder.html#aebadbb6b4d5bd79ebd792efc9865f3c7" title="If there&#39;s a component instance with the name passed, returns a pointer to it. Otherwise creates a du..." alt="" coords="542,133,761,173"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="488,131,529,136,528,141,488,137"/>
+<area shape="rect" id="Node000010" href="$classEngineBuilder.html#acaf6295aa4243a4c53e365997ef4b3da" title="Makes an array of parameters from a YAML array." alt="" coords="554,197,749,237"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="396,132,455,161,542,195,540,199,453,166,394,137"/>
+<area shape="poly" id="edge3_Node000003_Node000001" title=" " alt="" coords="542,42,232,83,232,78,541,37"/>
+<area shape="rect" id="Node000004" href="$classEngineBuilder.html#ad0f778777dce49030e38f24c45a12479" title="Returns a definition with the name passed by reference. If it does not already exists,..." alt="" coords="830,9,1049,49"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="761,24,816,25,816,30,761,30"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="748,67,829,50,830,55,749,72"/>
+<area shape="rect" id="Node000006" href="$classEngineBuilder.html#acc92c8bbbdf096fe15fd3e3ba171ae15" title="Adds a definition not yet defined." alt="" coords="809,77,1069,102"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="761,87,796,87,796,92,761,92"/>
+<area shape="rect" id="Node000008" href="$classEngineBuilder.html#ab4a38d6ef0adb6fa5899aa5f7aa303cb" title="Adds an instance not yet defined." alt="" coords="813,134,1065,159"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="761,148,800,147,800,153,761,153"/>
+<area shape="rect" id="Node000009" href="$classEngineBuilder.html#abc2c483ac5fae37c56e9da583904c9bc" title="Returns an instance with the name passed by reference. If it does not already exists,..." alt="" coords="830,184,1049,224"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="761,170,817,180,816,185,760,175"/>
+<area shape="poly" id="edge12_Node000010_Node000002" title=" " alt="" coords="613,200,540,176,448,141,450,136,542,171,615,195"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="SimpleCore" name="SimpleCore">
+<area shape="rect" id="Node000001" title=" " alt="" coords="331,183,428,208"/>
+<area shape="rect" id="Node000002" href="$classComponent.html" title=" " alt="" coords="5,80,244,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,108,351,180,349,185,166,113"/>
+<area shape="rect" id="Node000003" href="$classLinkable.html" title="Do not inherit directly from this class." alt="" coords="341,5,417,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="329,36,166,82,164,77,328,31"/>
+<area shape="rect" id="Node000004" href="$classComponent.html" title=" " alt="" coords="268,80,491,105"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="382,45,382,80,377,80,377,45"/>
+<area shape="rect" id="Node000005" href="$classComponent.html" title=" " alt="" coords="515,80,719,105"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="431,32,580,77,578,83,429,37"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="382,119,382,183,377,183,377,119"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="591,116,553,139,510,161,469,176,429,187,428,181,467,171,508,156,551,134,588,111"/>
+</map>

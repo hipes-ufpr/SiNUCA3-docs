@@ -1,0 +1,7 @@
+<map id="Engine::SendBufferedAndFetch" name="Engine::SendBufferedAndFetch">
+<area shape="rect" id="Node000001" title="Auxiliar to Fetch()." alt="" coords="5,35,227,60"/>
+<area shape="rect" id="Node000002" href="$classTraceReader.html#a5f3fd31e607856080b724ef7417059be" title="Get next executed instruction." alt="" coords="315,5,461,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,33,301,25,302,30,227,38"/>
+<area shape="rect" id="Node000003" href="$classComponent.html#ad1b0b8b74b2164c8cd3e7d6927a3a378" title="Sends a response to another component." alt="" coords="275,55,501,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,56,261,60,261,65,227,61"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="BranchTargetBuffer" name="BranchTargetBuffer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="290,181,437,207"/>
+<area shape="rect" id="Node000002" href="$classComponent.html" title=" " alt="" coords="5,93,241,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,121,332,179,330,184,167,126"/>
+<area shape="rect" id="Node000003" href="$classLinkable.html" title="Do not inherit directly from this class." alt="" coords="207,5,283,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="218,41,141,95,138,91,215,37"/>
+<area shape="rect" id="Node000006" href="$classComponent.html" title=" " alt="" coords="266,93,461,119"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="273,37,349,91,346,95,270,41"/>
+<area shape="rect" id="Node000004" href="$structBTBEntry.html" title=" " alt="" coords="485,93,567,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="493,127,387,183,384,179,491,123"/>
+<area shape="rect" id="Node000005" href="$classBimodalPredictor.html" title=" " alt="" coords="459,5,593,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="529,45,529,93,523,93,523,45"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="366,133,366,181,361,181,361,133"/>
+</map>

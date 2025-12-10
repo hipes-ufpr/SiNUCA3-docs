@@ -1,0 +1,13 @@
+<map id="Ras::FinishSetup" name="Ras::FinishSetup">
+<area shape="rect" id="Node000001" title="This method should be declared here so the simulator can send the finish setup message." alt="" coords="5,31,135,56"/>
+<area shape="rect" id="Node000002" href="$classComponent.html#adb7efec501917be07a6e17a1d4c1d48a" title="Connects to another component." alt="" coords="183,31,341,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,41,169,41,169,46,135,46"/>
+<area shape="rect" id="Node000003" href="$classLinkable.html#ae3c99b11c56a71f4a231281d615d85c1" title="Connect to this component." alt="" coords="389,31,572,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="342,41,375,41,375,46,342,46"/>
+<area shape="rect" id="Node000004" href="$classLinkable.html#af639d5ce03b401a6979f239a116f441e" title="Add the new connection in the connections array." alt="" coords="625,5,807,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="572,31,610,27,611,32,573,36"/>
+<area shape="rect" id="Node000005" href="$structConnection.html#a9b1be2982a5f4a4c6bff81fe7a931673" title="Allocate the buffers used to channels." alt="" coords="620,55,812,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="573,50,606,53,606,59,572,55"/>
+<area shape="rect" id="Node000006" href="$classCircularBuffer.html#aea7f307fc50f0061abc38840a1be0ad5" title="Allocates the structure of a Circular Buffer." alt="" coords="860,55,1032,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="812,65,846,65,846,70,812,70"/>
+</map>

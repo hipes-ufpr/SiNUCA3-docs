@@ -1,0 +1,7 @@
+<map id="Connection::RemoveFromARequestBuffer" name="Connection::RemoveFromARequestBuffer">
+<area shape="rect" id="Node000001" title="Remove a request from a requestBuffer." alt="" coords="5,5,257,45"/>
+<area shape="rect" id="Node000002" href="$classCircularBuffer.html#acae99d90b031432b48f0e42b4348b777" title="Removes and returns the element contained in the &quot;base&quot; of the Buffer." alt="" coords="305,13,483,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="257,23,292,23,292,28,257,28"/>
+<area shape="rect" id="Node000003" href="$classCircularBuffer.html#a9a1832f6c5c169bbc45542750e3d5d0f" title="Returns a boolean indicating whether the Buffer is empty." alt="" coords="531,13,703,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="483,23,517,23,517,28,483,28"/>
+</map>

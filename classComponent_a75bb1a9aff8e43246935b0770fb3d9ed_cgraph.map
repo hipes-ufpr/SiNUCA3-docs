@@ -1,0 +1,5 @@
+<map id="Component::ReceiveRequestFromConnection" name="Component::ReceiveRequestFromConnection">
+<area shape="rect" id="Node000001" title="Receives a request from another component." alt="" coords="5,5,216,45"/>
+<area shape="rect" id="Node000002" href="$classLinkable.html#a4153cd17a9558d6f99658b309feb9d1f" title="Gets a request message in the parameter." alt="" coords="264,13,471,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,23,250,23,250,28,216,28"/>
+</map>

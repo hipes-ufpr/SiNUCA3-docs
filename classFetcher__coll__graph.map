@@ -1,0 +1,24 @@
+<map id="Fetcher" name="Fetcher">
+<area shape="rect" id="Node000001" title="The Fetcher is a generic fetcher with support to an instruction memory and a predictor...." alt="" coords="983,104,1053,129"/>
+<area shape="rect" id="Node000002" href="$classComponent.html" title=" " alt="" coords="615,5,759,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="774,16,866,27,914,40,960,58,988,79,1009,102,1005,105,985,83,957,63,912,45,865,33,773,21"/>
+<area shape="rect" id="Node000003" href="$classLinkable.html" title="Do not inherit directly from this class." alt="" coords="342,77,418,103"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="430,71,470,59,615,28,616,33,471,65,432,76"/>
+<area shape="rect" id="Node000004" href="$classComponent.html" title=" " alt="" coords="585,55,789,80"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="431,84,585,72,585,78,432,89"/>
+<area shape="rect" id="Node000005" href="$classComponent.html" title=" " alt="" coords="568,104,807,129"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="432,92,568,104,568,109,431,97"/>
+<area shape="rect" id="Node000006" href="$classComponent.html" title=" " alt="" coords="574,153,801,179"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="432,102,569,138,624,151,623,156,567,143,430,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="803,74,880,83,959,97,983,103,982,108,958,102,879,88,802,79"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="821,114,982,114,982,119,821,119"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="814,156,886,147,958,134,983,127,985,132,959,139,887,152,815,161"/>
+<area shape="rect" id="Node000007" href="$structFetchBufferEntry.html" title="Represents an instruction alongside with useful information in the fetch buffer." alt="" coords="622,203,753,228"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="766,215,811,212,861,205,910,193,957,174,986,152,1006,128,1010,131,990,156,960,179,912,198,862,210,812,217,766,220"/>
+<area shape="rect" id="Node000008" href="$structInstructionPacket.html" title="Carries the information regarding an executed instruction." alt="" coords="313,203,447,228"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="460,213,622,213,622,218,460,218"/>
+<area shape="rect" id="Node000009" href="$structStaticInstructionInfo.html" title="Stores details of an instruction. These details are static and cannot be changed during program execu..." alt="" coords="16,177,169,203"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="183,195,313,207,313,212,183,201"/>
+<area shape="rect" id="Node000010" href="$structDynamicInstructionInfo.html" title="Stores details of an instruction. These details are dynamic and will vary during program execution." alt="" coords="5,227,180,252"/>
+<area shape="poly" id="edge12_Node000008_Node000010" title=" " alt="" coords="194,237,289,231,325,225,326,231,290,237,194,243"/>
+</map>

@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['input_0',['Input',['../structDelayQueue_1_1Input.html',1,'DelayQueue']]],
+  ['insertintorequestbuffer_1',['InsertIntoRequestBuffer',['../structConnection.html#a27b30786b9e1f2fa103bce1e90f7c6c8',1,'Connection']]],
+  ['insertintoresponsebuffer_2',['InsertIntoResponseBuffer',['../structConnection.html#aa44a0008e78d010a725146b8abfc515a',1,'Connection']]],
+  ['instanceid_3',['InstanceID',['../engine__builder_8hpp.html#aa99553eefdfd12a88c12afd4bbe3be72',1,'builder']]],
+  ['instantiate_4',['instantiate',['../classEngineBuilder.html#a520d4e1c41fde286afa13b290aa610af',1,'EngineBuilder::Instantiate()'],['../classEngine.html#af19abf5e06337127fa44694a6a7d3d10',1,'Engine::Instantiate()']]],
+  ['instleftinbbl_5',['instLeftInBBL',['../classsinucaTracer_1_1StaticTraceFile.html#aadaaec999c6315a4cdd38c5231cce41e',1,'sinucaTracer::StaticTraceFile']]],
+  ['instruction_6',['instruction',['../structBTBPacket.html#a077772ab7e77425930de483eef10a16a',1,'BTBPacket']]],
+  ['instructionconnectionid_7',['instructionConnectionID',['../classSimpleCore.html#adda87a7159bf7c46a9a0e35ef53a5a5e',1,'SimpleCore']]],
+  ['instructioninfo_8',['InstructionInfo',['../structsinucaTracer_1_1InstructionInfo.html',1,'sinucaTracer']]],
+  ['instructionmemory_9',['instructionMemory',['../classFetcher.html#acbd3ec336cee1f8a4349f4704d5cdf30',1,'Fetcher']]],
+  ['instructionmemoryconfigparameter_10',['InstructionMemoryConfigParameter',['../classFetcher.html#a3e5304824773304399c482a11db3b1b4',1,'Fetcher']]],
+  ['instructionmemoryid_11',['instructionMemoryID',['../classFetcher.html#a4a66bc236981ce24ed010164e82d5b7f',1,'Fetcher']]],
+  ['instructionpacket_12',['InstructionPacket',['../structInstructionPacket.html',1,'']]],
+  ['instructionqueue_13',['InstructionQueue',['../classInstructionQueue.html',1,'']]],
+  ['instrumentation_5fcontrol_2eh_14',['instrumentation_control.h',['../instrumentation__control_8h.html',1,'']]],
+  ['interleavedbtb_2ehpp_15',['interleavedBTB.hpp',['../interleavedBTB_8hpp.html',1,'']]],
+  ['interleavingbits_16',['interleavingBits',['../classBranchTargetBuffer.html#a7ac977e1b6e92df7c99eca97511945f4',1,'BranchTargetBuffer']]],
+  ['interleavingfactor_17',['interleavingFactor',['../classBranchTargetBuffer.html#acd1ef77e4bb495dedc3eb1abc0b3f9c6',1,'BranchTargetBuffer']]],
+  ['isallocated_18',['IsAllocated',['../classCircularBuffer.html#ab72668fcdda830640a30472a77a20977',1,'CircularBuffer']]],
+  ['isempty_19',['IsEmpty',['../classCircularBuffer.html#a9a1832f6c5c169bbc45542750e3d5d0f',1,'CircularBuffer']]],
+  ['isfull_20',['IsFull',['../classCircularBuffer.html#ab06acc73323bb95eff51bcbc7adf868f',1,'CircularBuffer']]],
+  ['isinstrumentating_21',['isInstrumentating',['../sinuca3__pintool_8cpp.html#a1a98dd9294bf3bace050e8f4cb44936b',1,'sinuca3_pintool.cpp']]],
+  ['isthreadanalysisenabled_22',['isThreadAnalysisEnabled',['../sinuca3__pintool_8cpp.html#a2c056cde690289821cad06dd57bb040c',1,'sinuca3_pintool.cpp']]],
+  ['isvalid_23',['isvalid',['../classsinucaTracer_1_1TraceFileReader.html#a33a4a39d3d9133d828b1f0aa9ecff790',1,'sinucaTracer::TraceFileReader::isValid'],['../classsinucaTracer_1_1StaticTraceFile.html#af6075522d1496f60d2d950931bcd06a2',1,'sinucaTracer::StaticTraceFile::isValid']]]
+];

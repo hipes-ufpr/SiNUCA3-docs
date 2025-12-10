@@ -1,0 +1,9 @@
+<map id="SimpleMemory::Clock" name="SimpleMemory::Clock">
+<area shape="rect" id="Node000001" title="This method should be declared here so the simulator can send clock cycles." alt="" coords="5,63,169,88"/>
+<area shape="rect" id="Node000002" href="$classLinkable.html#ad9a6ead10f00c5d4f1c9614aa0bfeb9e" title="Self&#45;explanatory." alt="" coords="218,5,473,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,60,217,41,263,31,265,36,218,46,138,65"/>
+<area shape="rect" id="Node000003" href="$classComponent.html#a75bb1a9aff8e43246935b0770fb3d9ed" title="Receives a request from another component." alt="" coords="217,55,473,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,73,203,73,203,78,169,78"/>
+<area shape="rect" id="Node000004" href="$classComponent.html#ad1b0b8b74b2164c8cd3e7d6927a3a378" title="Sends a response to another component." alt="" coords="232,119,459,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="140,86,251,113,250,119,139,91"/>
+</map>

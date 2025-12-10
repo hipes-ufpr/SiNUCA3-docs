@@ -1,0 +1,7 @@
+<map id="Engine::SetupSimulation" name="Engine::SetupSimulation">
+<area shape="rect" id="Node000001" title="Called at the beggining of Simulate()." alt="" coords="5,31,187,56"/>
+<area shape="rect" id="Node000002" href="$classTraceReader.html#a5f3fd31e607856080b724ef7417059be" title="Get next executed instruction." alt="" coords="289,5,435,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,32,275,24,276,29,187,37"/>
+<area shape="rect" id="Node000003" href="$classLinkable.html#ad9a6ead10f00c5d4f1c9614aa0bfeb9e" title="Self&#45;explanatory." alt="" coords="235,55,489,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,49,221,52,221,57,187,54"/>
+</map>

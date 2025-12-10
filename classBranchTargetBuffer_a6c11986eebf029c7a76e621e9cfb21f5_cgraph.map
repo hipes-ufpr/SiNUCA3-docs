@@ -1,0 +1,23 @@
+<map id="BranchTargetBuffer::Query" name="BranchTargetBuffer::Query">
+<area shape="rect" id="Node000001" title="Method for Request Query." alt="" coords="5,201,152,241"/>
+<area shape="rect" id="Node000002" href="$classBranchTargetBuffer.html#a48f66014bbe951c711d5dacdb29bf048" title="Calculate the index based on address." alt="" coords="240,5,387,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,199,128,129,160,89,198,55,225,41,228,46,202,60,164,93,133,132,92,202"/>
+<area shape="rect" id="Node000003" href="$classBranchTargetBuffer.html#a232edbf45488a41429dc6703ed557f0b" title="Calculate the tag based on address." alt="" coords="240,69,387,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="97,199,141,159,199,119,226,107,228,112,201,124,144,163,101,203"/>
+<area shape="rect" id="Node000004" href="$structBTBEntry.html#ac193d5730e78913b1e0600e3d84b0fae" title="Gets the branch type." alt="" coords="220,134,407,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="121,199,199,168,229,160,230,165,201,173,123,204"/>
+<area shape="rect" id="Node000005" href="$structBTBEntry.html#a66635387583721c6fd75b70acb9dcb20" title="Gets the branch prediction." alt="" coords="225,183,402,209"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="152,211,211,204,211,210,152,216"/>
+<area shape="rect" id="Node000007" href="$structBTBEntry.html#a1a851f891d4f5ef4af24384a4a7ebcf8" title="Gets the tag of the entry." alt="" coords="246,233,381,258"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="152,226,233,234,232,240,152,231"/>
+<area shape="rect" id="Node000008" href="$structBTBEntry.html#a1c7b03cd5e94590e0716c5cb99e86177" title="Gets the branch target address." alt="" coords="211,282,415,307"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="126,239,201,267,235,276,234,281,199,272,125,244"/>
+<area shape="rect" id="Node000009" href="$classComponent.html#a612c7acfd4a5f107a2e46f0eb6e9950e" title="Sends a request to another component." alt="" coords="218,331,409,357"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="101,240,144,280,172,300,201,318,218,325,216,330,199,322,169,305,141,284,97,244"/>
+<area shape="rect" id="Node000011" href="$classComponent.html#ad1b0b8b74b2164c8cd3e7d6927a3a378" title="Sends a response to another component." alt="" coords="200,381,427,421"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="93,240,135,303,166,338,202,367,211,373,209,378,198,372,162,342,131,306,89,243"/>
+<area shape="rect" id="Node000006" href="$classBimodalPredictor.html#a47e6f09b269a03c68de640d1172b222e" title="get the current prediction." alt="" coords="475,183,705,209"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="402,193,461,193,461,199,402,199"/>
+<area shape="rect" id="Node000010" href="$classLinkable.html#ab1105aee3fd76499e6603277e778f0c7" title="Receive a request from other component. (The other calls this method)" alt="" coords="483,331,697,357"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="409,341,469,341,469,347,409,347"/>
+</map>

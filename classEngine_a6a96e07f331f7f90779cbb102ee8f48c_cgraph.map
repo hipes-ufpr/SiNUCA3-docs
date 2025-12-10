@@ -1,0 +1,7 @@
+<map id="Engine::GetTraceSize" name="Engine::GetTraceSize">
+<area shape="rect" id="Node000001" title="Returns the number of instructions to be executed." alt="" coords="5,42,164,67"/>
+<area shape="rect" id="Node000002" href="$classTraceReader.html#a2f2f2a78e90a870b12788d5056dd3945" title="Number of instructions to be fetched." alt="" coords="226,5,414,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,42,212,36,213,41,164,47"/>
+<area shape="rect" id="Node000003" href="$classTraceReader.html#a0d0fa33defa685aeda061e38a20098f9" title=" " alt="" coords="212,70,428,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,61,200,66,199,71,164,67"/>
+</map>

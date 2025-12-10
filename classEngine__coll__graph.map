@@ -1,0 +1,16 @@
+<map id="Engine" name="Engine">
+<area shape="rect" id="Node000001" title="The engine itself." alt="" coords="312,181,379,207"/>
+<area shape="rect" id="Node000002" href="$classComponent.html" title=" " alt="" coords="112,93,316,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,124,329,179,326,183,241,128"/>
+<area shape="rect" id="Node000003" href="$classLinkable.html" title="Do not inherit directly from this class." alt="" coords="120,5,196,31"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="107,35,66,50,30,69,17,80,10,92,9,104,16,117,35,133,66,146,148,167,239,180,312,188,312,193,238,186,147,172,64,151,33,137,12,120,4,105,5,90,13,77,27,65,64,45,105,30"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="175,41,208,91,204,94,170,44"/>
+<area shape="rect" id="Node000004" href="$classTraceReader.html" title=" " alt="" coords="340,93,442,119"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="381,132,354,182,350,180,376,130"/>
+<area shape="rect" id="Node000005" href="$structInstructionPacket.html" title="Carries the information regarding an executed instruction." alt="" coords="467,93,600,119"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="511,129,463,160,420,177,380,188,378,183,419,171,460,155,508,125"/>
+<area shape="rect" id="Node000006" href="$structStaticInstructionInfo.html" title="Stores details of an instruction. These details are static and cannot be changed during program execu..." alt="" coords="322,5,476,31"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="430,36,517,91,514,95,427,40"/>
+<area shape="rect" id="Node000007" href="$structDynamicInstructionInfo.html" title="Stores details of an instruction. These details are dynamic and will vary during program execution." alt="" coords="500,5,674,31"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="575,44,543,94,539,91,570,41"/>
+</map>

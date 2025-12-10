@@ -1,0 +1,7 @@
+<map id="src/std_components/predictors/hardwired_predictor.hpp" name="src/std_components/predictors/hardwired_predictor.hpp">
+<area shape="rect" id="Node000001" title="API of the HardwiredPredictor, a component that always predicts or misses a specific set of instructi..." alt="" coords="97,5,257,60"/>
+<area shape="rect" id="Node000002" href="$hardwired__predictor_8cpp.html" title="Implementation of the HardwiredPredictor, a component that always predicts or misses a specific set o..." alt="" coords="5,108,165,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,72,111,110,107,106,142,69"/>
+<area shape="rect" id="Node000003" href="$std__components_8cpp.html" title="Declaration of the std components." alt="" coords="189,115,349,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,69,254,113,250,117,209,72"/>
+</map>

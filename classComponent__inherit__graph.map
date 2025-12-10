@@ -1,0 +1,17 @@
+<map id="Component&lt; MessageType &gt;" name="Component&lt; MessageType &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="223,79,438,104"/>
+<area shape="rect" id="Node000003" href="$classQueue.html" title=" " alt="" coords="5,152,211,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="283,111,145,154,143,149,281,106"/>
+<area shape="rect" id="Node000005" href="$classQueue.html" title=" " alt="" coords="235,152,426,177"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="333,118,333,152,328,152,328,118"/>
+<area shape="rect" id="Node000007" href="$classQueue.html" title=" " alt="" coords="451,152,645,177"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="379,106,514,149,512,154,378,111"/>
+<area shape="rect" id="Node000002" href="$classLinkable.html" title="Do not inherit directly from this class." alt="" coords="293,5,369,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="333,44,333,79,328,79,328,44"/>
+<area shape="rect" id="Node000004" href="$classInstructionQueue.html" title="Queue of InstructionPacket." alt="" coords="41,225,175,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="111,191,111,225,105,225,105,191"/>
+<area shape="rect" id="Node000006" href="$classMemoryQueue.html" title="Queue of MemoryPacket." alt="" coords="271,225,390,251"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="333,191,333,225,328,225,328,191"/>
+<area shape="rect" id="Node000008" href="$classPredictorQueue.html" title="Queue of PredictorPacket." alt="" coords="487,225,609,251"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="551,191,551,225,545,225,545,191"/>
+</map>

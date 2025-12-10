@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['name_0',['name',['../structbuilder_1_1ComponentDefinition.html#a95ae088b804ba7e68cb596430d299ef1',1,'builder::ComponentDefinition::name'],['../structbuilder_1_1ParameterMapItem.html#ad8ee71b7ee80e185c56f28da6da2acb8',1,'builder::ParameterMapItem::name']]],
+  ['newcomponentfromdefinitionreference_1',['NewComponentFromDefinitionReference',['../classEngineBuilder.html#a676647218d21a1bae68f765e4c98c513',1,'EngineBuilder']]],
+  ['newentry_2',['NewEntry',['../structBTBEntry.html#a13ee8640c0ba0d3d4ae8b4f7b0084b15',1,'BTBEntry']]],
+  ['nobranch_3',['noBranch',['../classHardwiredPredictor.html#aefe846f7bb311b8fa7402a1f4ce1c216',1,'HardwiredPredictor']]],
+  ['numbanks_4',['numBanks',['../structBTBEntry.html#ad399d14628dda81b3bb3bba819c49eeb',1,'BTBEntry']]],
+  ['numberofbits_5',['numberOfBits',['../structBTBPacket.html#a33bbd3551765d0f4cdaa0a5c2ba27325',1,'BTBPacket']]],
+  ['numberofcalls_6',['numberOfCalls',['../classHardwiredPredictor.html#a6d0054b53f491b010b0f1649e2047503',1,'HardwiredPredictor']]],
+  ['numberofcomponents_7',['numberOfComponents',['../classEngine.html#ad8ea96bff3fa766ba9b6158639c049ff',1,'Engine']]],
+  ['numberofconds_8',['numberOfConds',['../classHardwiredPredictor.html#a9691758132dcd1257bdd447b527afdb2',1,'HardwiredPredictor']]],
+  ['numberofconnections_9',['numberOfConnections',['../classLinkable.html#a3925ce7f48c6885f12e05fa893ef616a',1,'Linkable']]],
+  ['numberoffetchers_10',['numberOfFetchers',['../classEngine.html#ad177e418bf8c9bf727e3410a51328a46',1,'Engine']]],
+  ['numberofnobranchs_11',['numberOfNoBranchs',['../classHardwiredPredictor.html#a7ab8d04c92f89aecae55a22305bc0f7a',1,'HardwiredPredictor']]],
+  ['numberofrets_12',['numberOfRets',['../classHardwiredPredictor.html#a6f9e60e6b1695d6c67241360e1b33f08',1,'HardwiredPredictor']]],
+  ['numberofsyscalls_13',['numberOfSyscalls',['../classHardwiredPredictor.html#af568ae68c69d054d4c6217882669e8b1',1,'HardwiredPredictor']]],
+  ['numberofunconds_14',['numberOfUnconds',['../classHardwiredPredictor.html#aa10972a6edc1c3370c8f1d58d80cfcda',1,'HardwiredPredictor']]],
+  ['numentries_15',['numEntries',['../classBranchTargetBuffer.html#aa95d4f14507812d96d96bf90db3face9',1,'BranchTargetBuffer']]],
+  ['numfetchedinstructions_16',['numFetchedInstructions',['../classSimpleCore.html#a2eae1479c6c3e2d55e669eb5b7baa9c0',1,'SimpleCore']]],
+  ['numqueries_17',['numQueries',['../classBranchTargetBuffer.html#a91f4fccbfe8351ff8e780860846e7189',1,'BranchTargetBuffer']]]
+];

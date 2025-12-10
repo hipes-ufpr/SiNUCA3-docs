@@ -1,0 +1,38 @@
+<map id="src/std_components/predictors/hardwired_predictor.cpp" name="src/std_components/predictors/hardwired_predictor.cpp">
+<area shape="rect" id="Node000001" title="Implementation of the HardwiredPredictor, a component that always predicts or misses a specific set o..." alt="" coords="252,5,412,60"/>
+<area shape="rect" id="Node000002" href="$hardwired__predictor_8hpp.html" title="API of the HardwiredPredictor, a component that always predicts or misses a specific set of instructi..." alt="" coords="243,108,421,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="335,60,335,94,329,94,329,60"/>
+<area shape="rect" id="Node000003" href="$sinuca3_8hpp.html" title=" " alt="" coords="409,181,509,207"/>
+<area shape="poly" id="edge21_Node000001_Node000003" title=" " alt="" coords="382,58,411,80,436,106,450,137,458,167,453,169,445,139,431,110,407,84,379,62"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="133,548,200,573"/>
+<area shape="poly" id="edge20_Node000001_Node000009" title=" " alt="" coords="252,41,173,55,132,66,93,81,59,101,32,126,14,156,8,193,8,415,11,437,19,458,32,476,48,492,86,520,124,540,122,545,83,525,44,496,28,479,15,460,6,439,3,416,3,192,9,154,28,122,56,97,91,76,130,61,172,49,251,36"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="354,131,427,172,425,177,351,136"/>
+<area shape="rect" id="Node000004" href="$config_8hpp.html" title="Configuration public API for SiNUCA3." alt="" coords="419,475,551,500"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="509,196,573,202,644,213,706,229,730,240,746,253,757,271,763,289,763,306,758,323,736,356,702,386,661,413,616,437,533,472,531,467,614,432,658,408,699,381,732,352,753,321,758,305,758,289,753,273,742,256,727,244,705,234,643,218,573,207,509,201"/>
+<area shape="rect" id="Node000006" href="$component_8hpp.html" title="Public API of the component template class." alt="" coords="373,328,544,353"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="461,207,461,314,456,314,456,207"/>
+<area shape="rect" id="Node000007" href="$linkable_8hpp.html" title="Public API of the Linkable class." alt="" coords="396,401,545,427"/>
+<area shape="poly" id="edge17_Node000003_Node000007" title=" " alt="" coords="473,205,518,255,541,289,559,327,562,341,558,355,538,379,513,397,510,393,535,375,554,352,557,341,553,329,536,292,514,258,469,209"/>
+<area shape="rect" id="Node000010" href="$default__packets_8hpp.html" title="Standard message types." alt="" coords="66,401,267,427"/>
+<area shape="poly" id="edge10_Node000003_Node000010" title=" " alt="" coords="409,198,332,205,287,212,241,224,195,241,152,264,114,293,84,329,80,338,80,347,89,364,107,380,129,393,126,398,103,384,84,367,74,348,74,337,79,327,111,289,149,259,193,236,239,219,286,207,331,199,408,193"/>
+<area shape="rect" id="Node000011" href="$engine_8hpp.html" title="Public API of the simulation engine." alt="" coords="263,255,406,280"/>
+<area shape="poly" id="edge12_Node000003_Node000011" title=" " alt="" coords="440,209,368,250,365,245,437,204"/>
+<area shape="rect" id="Node000014" href="$logging_8hpp.html" title=" " alt="" coords="601,255,732,280"/>
+<area shape="poly" id="edge18_Node000003_Node000014" title=" " alt="" coords="493,204,621,248,619,253,491,209"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="454,548,517,573"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="488,500,488,534,483,534,483,500"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="463,353,469,387,464,388,458,354"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="476,426,483,461,478,462,470,428"/>
+<area shape="rect" id="Node000008" href="$circular__buffer_8hpp.html" title="Circular Buffer Class." alt="" coords="210,475,385,500"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="444,429,339,472,337,467,442,424"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="278,502,201,544,199,539,275,498"/>
+<area shape="poly" id="edge11_Node000010_Node000009" title=" " alt="" coords="169,427,169,534,164,534,164,427"/>
+<area shape="poly" id="edge14_Node000011_Node000006" title=" " alt="" coords="356,278,428,319,425,323,353,282"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="291,328,349,353"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="335,281,328,315,323,314,330,280"/>
+<area shape="rect" id="Node000013" href="$trace__reader_8hpp.html" title="Pure virtual TraceReader class that all trace readers must implement." alt="" coords="93,328,267,353"/>
+<area shape="poly" id="edge15_Node000011_Node000013" title=" " alt="" coords="311,282,219,325,217,320,309,278"/>
+<area shape="poly" id="edge16_Node000013_Node000010" title=" " alt="" coords="180,354,174,388,169,387,175,353"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="636,328,697,353"/>
+<area shape="poly" id="edge19_Node000014_Node000015" title=" " alt="" coords="669,280,669,314,664,314,664,280"/>
+</map>

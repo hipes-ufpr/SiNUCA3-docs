@@ -1,0 +1,11 @@
+<map id="BranchTargetBuffer::RegisterNewBranch" name="BranchTargetBuffer::RegisterNewBranch">
+<area shape="rect" id="Node000001" title="Register a new branch in BTB." alt="" coords="5,101,164,141"/>
+<area shape="rect" id="Node000002" href="$classBranchTargetBuffer.html#a1c6951871527db6bc08d3306747ccc48" title="Calculate the bank based on address." alt="" coords="215,5,361,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,99,211,55,225,48,227,53,213,60,125,103"/>
+<area shape="rect" id="Node000003" href="$classBranchTargetBuffer.html#a48f66014bbe951c711d5dacdb29bf048" title="Calculate the index based on address." alt="" coords="215,69,361,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,106,200,100,201,106,165,112"/>
+<area shape="rect" id="Node000004" href="$classBranchTargetBuffer.html#a232edbf45488a41429dc6703ed557f0b" title="Calculate the tag based on address." alt="" coords="215,133,361,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="165,131,201,137,200,142,164,136"/>
+<area shape="rect" id="Node000005" href="$structBTBEntry.html#a13ee8640c0ba0d3d4ae8b4f7b0084b15" title="Register a new entry." alt="" coords="212,198,364,223"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="123,139,213,183,234,191,232,196,211,188,121,144"/>
+</map>

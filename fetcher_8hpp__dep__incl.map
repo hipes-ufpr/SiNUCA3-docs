@@ -1,0 +1,7 @@
+<map id="src/std_components/fetch/fetcher.hpp" name="src/std_components/fetch/fetcher.hpp">
+<area shape="rect" id="Node000001" title="API of the Fetcher, a generic component for simulating logic in the first stage of a pipeline,..." alt="" coords="95,5,247,45"/>
+<area shape="rect" id="Node000002" href="$fetcher_8cpp.html" title="API of the Fetcher, a generic component for simulating logic in the first stage of a pipeline,..." alt="" coords="5,93,157,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,57,103,95,99,91,139,53"/>
+<area shape="rect" id="Node000003" href="$std__components_8cpp.html" title="Declaration of the std components." alt="" coords="181,93,341,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,53,243,91,239,95,199,57"/>
+</map>

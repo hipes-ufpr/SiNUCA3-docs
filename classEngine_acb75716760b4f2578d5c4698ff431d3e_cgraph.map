@@ -1,0 +1,33 @@
+<map id="Engine::Simulate" name="Engine::Simulate">
+<area shape="rect" id="Node000001" title="Self&#45;explanatory." alt="" coords="5,235,137,260"/>
+<area shape="rect" id="Node000002" href="$classEngine.html#a5db825a0ad44311dae79ca33b095686d" title="This method should be declared here so the simulator can send clock cycles." alt="" coords="221,124,331,149"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,232,238,154,241,158,97,237"/>
+<area shape="rect" id="Node000009" href="$classEngine.html#a6a96e07f331f7f90779cbb102ee8f48c" title="Returns the number of instructions to be executed." alt="" coords="197,209,355,235"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="137,237,183,231,183,236,138,242"/>
+<area shape="rect" id="Node000012" href="$classLinkable.html#a477ca59bc87e9b91cea517c98bf5c669" title="Don&#39;t call this method." alt="" coords="205,259,347,284"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="138,252,191,259,191,264,137,258"/>
+<area shape="rect" id="Node000013" href="$classLinkable.html#a8aa75b9060a4bf1b20e5730ab171cc6c" title="This method is called by the engine after the simulation stops, so each component can print it&#39;s stat..." alt="" coords="189,308,363,333"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="100,258,186,294,209,302,208,307,184,299,98,262"/>
+<area shape="rect" id="Node000014" href="$classEngine.html#ad5d75e1d0486bd707b9b43ec8651d140" title="Prints the estimated remaining simulation time." alt="" coords="207,357,345,383"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="86,258,127,301,156,324,187,344,201,350,199,355,184,348,153,328,124,305,82,262"/>
+<area shape="rect" id="Node000015" href="$classEngine.html#a23365d859be19744625ca683a4215350" title="Called at the beggining of Simulate()." alt="" coords="185,45,367,71"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="79,233,121,176,150,142,184,109,235,75,238,79,187,113,154,145,125,180,83,236"/>
+<area shape="rect" id="Node000003" href="$classEngine.html#af18677c94b42d767eb444558b2f51b18" title="Responds to requests." alt="" coords="488,95,597,120"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="331,128,474,112,475,117,332,133"/>
+<area shape="rect" id="Node000007" href="$classLinkable.html#ad9a6ead10f00c5d4f1c9614aa0bfeb9e" title="Self&#45;explanatory." alt="" coords="415,45,670,71"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="304,122,354,100,414,79,448,71,449,76,415,85,356,105,306,126"/>
+<area shape="rect" id="Node000008" href="$classComponent.html#a75bb1a9aff8e43246935b0770fb3d9ed" title="Receives a request from another component." alt="" coords="415,145,671,185"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="332,140,401,147,401,152,331,145"/>
+<area shape="rect" id="Node000004" href="$classEngine.html#a4bddfa6cf2bdb036d5220f84b178284c" title="Auxiliar to Fetch()." alt="" coords="719,84,940,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="597,103,705,99,705,104,598,108"/>
+<area shape="rect" id="Node000005" href="$classTraceReader.html#a5f3fd31e607856080b724ef7417059be" title="Get next executed instruction." alt="" coords="1029,5,1174,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="874,81,1043,32,1044,37,875,86"/>
+<area shape="rect" id="Node000006" href="$classComponent.html#ad1b0b8b74b2164c8cd3e7d6927a3a378" title="Sends a response to another component." alt="" coords="988,77,1215,117"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="940,94,975,94,975,99,940,99"/>
+<area shape="rect" id="Node000010" href="$classTraceReader.html#a2f2f2a78e90a870b12788d5056dd3945" title="Number of instructions to be fetched." alt="" coords="449,209,637,249"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="356,221,435,223,435,229,355,227"/>
+<area shape="rect" id="Node000011" href="$classTraceReader.html#a0d0fa33defa685aeda061e38a20098f9" title=" " alt="" coords="435,273,651,299"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="323,232,415,258,460,268,459,273,414,263,321,237"/>
+<area shape="poly" id="edge15_Node000015_Node000005" title=" " alt="" coords="334,43,414,30,581,18,746,12,1015,13,1015,18,747,17,581,23,415,35,335,48"/>
+<area shape="poly" id="edge16_Node000015_Node000007" title=" " alt="" coords="367,55,402,55,402,61,367,61"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="BranchTargetBuffer::FinishSetup" name="BranchTargetBuffer::FinishSetup">
+<area shape="rect" id="Node000001" title="This method should be declared here so the simulator can send the finish setup message." alt="" coords="5,23,152,63"/>
+<area shape="rect" id="Node000002" href="$structBTBEntry.html#a8797b58a4077c2faf6927a3a8e2e10ea" title="Allocates the BTB entry." alt="" coords="208,5,351,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,31,194,26,195,31,152,37"/>
+<area shape="rect" id="Node000003" href="$classComponent.html#adb7efec501917be07a6e17a1d4c1d48a" title="Connects to another component." alt="" coords="200,55,359,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,49,187,54,186,59,152,55"/>
+<area shape="rect" id="Node000004" href="$classLinkable.html#ae3c99b11c56a71f4a231281d615d85c1" title="Connect to this component." alt="" coords="407,55,589,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="359,65,393,65,393,70,359,70"/>
+<area shape="rect" id="Node000005" href="$classLinkable.html#af639d5ce03b401a6979f239a116f441e" title="Add the new connection in the connections array." alt="" coords="642,29,825,55"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="590,55,628,51,628,56,590,60"/>
+<area shape="rect" id="Node000006" href="$structConnection.html#a9b1be2982a5f4a4c6bff81fe7a931673" title="Allocate the buffers used to channels." alt="" coords="637,79,829,104"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="590,74,624,77,623,83,590,79"/>
+<area shape="rect" id="Node000007" href="$classCircularBuffer.html#aea7f307fc50f0061abc38840a1be0ad5" title="Allocates the structure of a Circular Buffer." alt="" coords="877,79,1049,104"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="830,89,864,89,864,94,830,94"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="Engine::Clock" name="Engine::Clock">
+<area shape="rect" id="Node000001" title="This method should be declared here so the simulator can send clock cycles." alt="" coords="5,84,116,109"/>
+<area shape="rect" id="Node000002" href="$classEngine.html#af18677c94b42d767eb444558b2f51b18" title="Responds to requests." alt="" coords="237,35,347,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,81,163,69,223,57,224,62,165,74,111,87"/>
+<area shape="rect" id="Node000006" href="$classLinkable.html#ad9a6ead10f00c5d4f1c9614aa0bfeb9e" title="Self&#45;explanatory." alt="" coords="165,84,419,109"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="116,94,150,94,150,99,116,99"/>
+<area shape="rect" id="Node000007" href="$classComponent.html#a75bb1a9aff8e43246935b0770fb3d9ed" title="Receives a request from another component." alt="" coords="164,134,420,174"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="113,107,198,128,197,133,112,112"/>
+<area shape="rect" id="Node000003" href="$classEngine.html#a4bddfa6cf2bdb036d5220f84b178284c" title="Auxiliar to Fetch()." alt="" coords="468,35,689,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="347,45,454,45,454,50,347,50"/>
+<area shape="rect" id="Node000004" href="$classTraceReader.html#a5f3fd31e607856080b724ef7417059be" title="Get next executed instruction." alt="" coords="778,5,923,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="689,33,764,25,764,30,690,38"/>
+<area shape="rect" id="Node000005" href="$classComponent.html#ad1b0b8b74b2164c8cd3e7d6927a3a378" title="Sends a response to another component." alt="" coords="737,55,964,95"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="690,56,724,60,724,65,689,61"/>
+</map>

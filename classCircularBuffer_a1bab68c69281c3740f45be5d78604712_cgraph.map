@@ -1,0 +1,5 @@
+<map id="CircularBuffer::Enqueue" name="CircularBuffer::Enqueue">
+<area shape="rect" id="Node000001" title="Inserts the element at the &quot;top&quot; of the buffer." alt="" coords="5,5,180,31"/>
+<area shape="rect" id="Node000002" href="$classCircularBuffer.html#ab06acc73323bb95eff51bcbc7adf868f" title="Returns a boolean indicating whether the Buffer is full." alt="" coords="228,5,381,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,15,214,15,214,21,180,21"/>
+</map>

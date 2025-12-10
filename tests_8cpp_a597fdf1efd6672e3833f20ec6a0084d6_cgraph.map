@@ -1,0 +1,33 @@
+<map id="Test" name="Test">
+<area shape="rect" id="Node000001" title="Runs a test by name." alt="" coords="5,129,53,155"/>
+<area shape="rect" id="Node000002" href="$tests_8cpp.html#aa34721541d935151d7bbb9305d7075d1" title="An example test." alt="" coords="101,104,207,129"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="53,135,87,128,88,133,54,140"/>
+<area shape="rect" id="Node000003" href="$queue_8cpp.html#ab5ca87d6b7b27bd5333153e1f7f144e0" title="Test for the Queue template class." alt="" coords="109,153,199,179"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="54,144,96,152,95,157,53,149"/>
+<area shape="rect" id="Node000004" href="$classQueue.html#a354e2fc49134ab25f179b250e53cfdd4" title="This method should be declared here so the simulator can send clock cycles." alt="" coords="301,5,409,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="188,151,205,139,221,114,227,89,234,64,253,40,287,23,289,28,256,44,238,67,232,90,226,116,209,143,191,155"/>
+<area shape="rect" id="Node000005" href="$classComponent.html#adb7efec501917be07a6e17a1d4c1d48a" title="Connects to another component." alt="" coords="276,55,435,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="184,151,205,139,219,126,228,113,238,101,253,89,267,82,269,87,256,94,241,105,232,117,223,129,208,143,187,155"/>
+<area shape="rect" id="Node000010" href="$classQueue.html#a2c6d47473511d2e62b51667bb267bf5f" title="This method should be declared here so the simulator can send the finish setup message." alt="" coords="282,104,429,129"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="199,152,254,138,287,130,288,135,255,143,200,157"/>
+<area shape="rect" id="Node000011" href="$classQueueTester.html#a826292aae6b1575a7d8e0de366d2e0a6" title="Get&#39;s a message as a long, returning 0 if no message is available." alt="" coords="259,153,451,179"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="199,163,245,163,245,169,199,169"/>
+<area shape="rect" id="Node000013" href="$classLinkable.html#a477ca59bc87e9b91cea517c98bf5c669" title="Don&#39;t call this method." alt="" coords="284,203,427,228"/>
+<area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="200,174,290,197,289,202,199,180"/>
+<area shape="rect" id="Node000014" href="$classComponent.html#a612c7acfd4a5f107a2e46f0eb6e9950e" title="Sends a request to another component." alt="" coords="260,252,451,277"/>
+<area shape="poly" id="edge13_Node000003_Node000014" title=" " alt="" coords="171,177,207,208,256,238,274,245,272,250,253,243,204,212,167,181"/>
+<area shape="rect" id="Node000016" href="$classQueue.html#a53ceaf338a24b358a22672eefd66f9e0" title="This method should be declared here so the simulator can send config parameters." alt="" coords="255,301,456,327"/>
+<area shape="poly" id="edge15_Node000003_Node000016" title=" " alt="" coords="164,177,198,232,225,262,256,288,267,294,264,298,253,292,221,266,194,235,160,180"/>
+<area shape="rect" id="Node000006" href="$classLinkable.html#ae3c99b11c56a71f4a231281d615d85c1" title="Connect to this component." alt="" coords="529,55,712,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="435,65,516,65,516,70,435,70"/>
+<area shape="rect" id="Node000007" href="$classLinkable.html#af639d5ce03b401a6979f239a116f441e" title="Add the new connection in the connections array." alt="" coords="790,31,973,56"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="712,56,776,50,776,56,712,62"/>
+<area shape="rect" id="Node000008" href="$structConnection.html#a9b1be2982a5f4a4c6bff81fe7a931673" title="Allocate the buffers used to channels." alt="" coords="785,80,977,105"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="712,74,772,79,771,85,712,79"/>
+<area shape="rect" id="Node000009" href="$classCircularBuffer.html#aea7f307fc50f0061abc38840a1be0ad5" title="Allocates the structure of a Circular Buffer." alt="" coords="1025,80,1197,105"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="978,90,1012,90,1012,95,978,95"/>
+<area shape="rect" id="Node000012" href="$classComponent.html#a75bb1a9aff8e43246935b0770fb3d9ed" title="Receives a request from another component." alt="" coords="504,146,737,186"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="451,163,490,163,490,169,451,169"/>
+<area shape="rect" id="Node000015" href="$classLinkable.html#ab1105aee3fd76499e6603277e778f0c7" title="Receive a request from other component. (The other calls this method)" alt="" coords="513,252,728,277"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="451,262,499,262,499,267,451,267"/>
+</map>

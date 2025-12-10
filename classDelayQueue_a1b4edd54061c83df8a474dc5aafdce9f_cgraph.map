@@ -1,0 +1,7 @@
+<map id="DelayQueue::Dequeue" name="DelayQueue::Dequeue">
+<area shape="rect" id="Node000001" title="No removal if empty or not time to remove queueFirst. Else, elemToRemove receives queueFirst and if o..." alt="" coords="5,5,173,31"/>
+<area shape="rect" id="Node000002" href="$classCircularBuffer.html#acae99d90b031432b48f0e42b4348b777" title="Removes and returns the element contained in the &quot;base&quot; of the Buffer." alt="" coords="221,5,399,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,15,207,15,207,21,174,21"/>
+<area shape="rect" id="Node000003" href="$classCircularBuffer.html#a9a1832f6c5c169bbc45542750e3d5d0f" title="Returns a boolean indicating whether the Buffer is empty." alt="" coords="447,5,619,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="399,15,433,15,433,21,399,21"/>
+</map>

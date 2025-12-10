@@ -1,0 +1,12 @@
+<map id="EngineBuilder::SetupComponentConfig" name="EngineBuilder::SetupComponentConfig">
+<area shape="rect" id="Node000001" title="Pass the parameters to a component, with Parameter2ConfigValue. This method also resolves pointers to..." alt="" coords="5,35,237,75"/>
+<area shape="rect" id="Node000002" href="$classEngineBuilder.html#a602bb2249a4a60fc4e9a2bc33983b897" title="Translates the intermediate representation of the parameter to the config API representation...." alt="" coords="295,5,489,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,39,281,35,281,40,238,45"/>
+<area shape="rect" id="Node000005" href="$classLinkable.html#a78d5190adc21fe25d7b956888cf20363" title="This method should be declared here so the simulator can send config parameters." alt="" coords="285,70,499,95"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="238,64,272,68,271,73,237,69"/>
+<area shape="rect" id="Node000003" href="$classEngineBuilder.html#a25adea1ece5bd9ddb6baac9f1e6864e1" title="Called by Parameter2ConfigValue to translate array values." alt="" coords="547,5,777,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="489,31,533,32,533,37,489,37"/>
+<area shape="rect" id="Node000004" href="$classEngineBuilder.html#a676647218d21a1bae68f765e4c98c513" title="Called by Parameter2ConfigValue to create new instances from references to definitions." alt="" coords="550,69,774,109"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="478,43,564,64,563,69,477,48"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="546,19,503,19,503,14,546,14"/>
+</map>

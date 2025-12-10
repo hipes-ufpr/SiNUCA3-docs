@@ -1,0 +1,7 @@
+<map id="src/std_components/predictors/interleavedBTB.hpp" name="src/std_components/predictors/interleavedBTB.hpp">
+<area shape="rect" id="Node000001" title="Implementation of Interleaved Branch Target Buffer." alt="" coords="112,5,335,45"/>
+<area shape="rect" id="Node000002" href="$interleavedBTB_8cpp_source.html" title=" " alt="" coords="5,93,228,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,56,142,95,139,91,187,52"/>
+<area shape="rect" id="Node000003" href="$std__components_8cpp.html" title="Declaration of the std components." alt="" coords="251,93,411,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="260,52,309,91,306,95,256,56"/>
+</map>

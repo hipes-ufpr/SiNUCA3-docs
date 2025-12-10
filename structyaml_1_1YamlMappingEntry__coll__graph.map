@@ -1,0 +1,5 @@
+<map id="yaml::YamlMappingEntry" name="yaml::YamlMappingEntry">
+<area shape="rect" id="Node000001" title="This is an entry in a YAML mapping." alt="" coords="5,93,189,119"/>
+<area shape="rect" id="Node000002" href="$structyaml_1_1YamlValue.html" title="a generic YAML value. Tagged union + the anchor (C&#45;style string, deleted by the destructor)." alt="" coords="32,5,163,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,45,100,93,95,93,95,45"/>
+</map>

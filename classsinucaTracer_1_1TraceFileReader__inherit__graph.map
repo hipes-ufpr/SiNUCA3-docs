@@ -1,0 +1,7 @@
+<map id="sinucaTracer::TraceFileReader" name="sinucaTracer::TraceFileReader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="135,5,350,31"/>
+<area shape="rect" id="Node000002" href="$classsinucaTracer_1_1DynamicTraceFile.html" title=" " alt="" coords="5,79,232,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,40,140,81,138,76,210,35"/>
+<area shape="rect" id="Node000003" href="$classsinucaTracer_1_1MemoryTraceFile.html" title=" " alt="" coords="257,79,479,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="276,35,349,76,346,81,273,40"/>
+</map>

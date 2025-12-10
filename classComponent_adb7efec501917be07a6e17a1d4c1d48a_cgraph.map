@@ -1,0 +1,11 @@
+<map id="Component::Connect" name="Component::Connect">
+<area shape="rect" id="Node000001" title="Connects to another component." alt="" coords="5,31,164,56"/>
+<area shape="rect" id="Node000002" href="$classLinkable.html#ae3c99b11c56a71f4a231281d615d85c1" title="Connect to this component." alt="" coords="212,31,395,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,41,198,41,198,46,165,46"/>
+<area shape="rect" id="Node000003" href="$classLinkable.html#af639d5ce03b401a6979f239a116f441e" title="Add the new connection in the connections array." alt="" coords="447,5,630,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="395,31,433,27,434,32,396,36"/>
+<area shape="rect" id="Node000004" href="$structConnection.html#a9b1be2982a5f4a4c6bff81fe7a931673" title="Allocate the buffers used to channels." alt="" coords="443,55,635,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="396,50,429,53,428,59,395,55"/>
+<area shape="rect" id="Node000005" href="$classCircularBuffer.html#aea7f307fc50f0061abc38840a1be0ad5" title="Allocates the structure of a Circular Buffer." alt="" coords="683,55,855,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="635,65,669,65,669,70,635,70"/>
+</map>
