@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['fetch_0',['fetch',['../classEngineDebugComponent.html#a7f5cdeae7e25a7320090d1148c2f737b',1,'EngineDebugComponent::fetch'],['../classBoomFetch.html#a58a31c5107c43632cca3c92dd324bda5',1,'BoomFetch::fetch']]],
+  ['fetchbuffer_1',['fetchBuffer',['../classBoomFetch.html#af41268e8733d242461057bd430569786',1,'BoomFetch::fetchBuffer'],['../classFetcher.html#a99914e2db3fecdffc917601162684897',1,'Fetcher::fetchBuffer']]],
+  ['fetchbufferentryflagspredicted_2',['FetchBufferEntryFlagsPredicted',['../fetcher_8hpp.html#a35cf3d71ef9ab49b02356ef221a7b935',1,'fetcher.hpp']]],
+  ['fetchbufferentryflagssenttomemory_3',['FetchBufferEntryFlagsSentToMemory',['../fetcher_8hpp.html#aa650b372d4bfdcfe725acbf8330cf472',1,'fetcher.hpp']]],
+  ['fetchbufferentryflagssenttopredictor_4',['FetchBufferEntryFlagsSentToPredictor',['../fetcher_8hpp.html#a4583f53d9c29e5eb8f5033289b0aaf3a',1,'fetcher.hpp']]],
+  ['fetchbuffers_5',['fetchBuffers',['../classEngine.html#abf34ba42ec0b9d0bc8404938779ea49e',1,'Engine']]],
+  ['fetchbufferusage_6',['fetchBufferUsage',['../classBoomFetch.html#acf16e4b451e9031bec607bb9966f5ea4',1,'BoomFetch::fetchBufferUsage'],['../classFetcher.html#a81bc81eaff1bc22b88bb2c043d4cb3d5',1,'Fetcher::fetchBufferUsage']]],
+  ['fetchclock_7',['fetchClock',['../classBoomFetch.html#aa395febe99a75aeeb9c232e6d3e06c24',1,'BoomFetch::fetchClock'],['../classFetcher.html#a421709fffa4cceb024afe4ca3f678ace',1,'Fetcher::fetchClock']]],
+  ['fetchconnectionid_8',['fetchConnectionID',['../classiTLBDebugComponent.html#adbf2d23337bbf57263f7a71aa36ae289',1,'iTLBDebugComponent::fetchConnectionID'],['../classEngineDebugComponent.html#a4f6e6006ff3f4bec333ee31987158120',1,'EngineDebugComponent::fetchConnectionID']]],
+  ['fetchedinst_9',['fetchedInst',['../structThreadData.html#a09c547a27444901b05832bcc34ced8ec',1,'ThreadData']]],
+  ['fetchedinstructions_10',['fetchedInstructions',['../classEngine.html#ac8a2698cad285f3cdbaad51000e8fa65',1,'Engine::fetchedInstructions'],['../classBoomFetch.html#a4a7603f6e8ac8aebd182a29f7d442fa8',1,'BoomFetch::fetchedInstructions'],['../classFetcher.html#a677ac1e9be0adf31b4d0f3af3cefa457',1,'Fetcher::fetchedInstructions']]],
+  ['fetchid_11',['fetchID',['../classBoomFetch.html#a273d6ba83df3b056669762c25cfb9aab',1,'BoomFetch::fetchID'],['../classFetcher.html#a8f755eca94c09747d6f0fd81a0f24e08',1,'Fetcher::fetchID']]],
+  ['fetching_12',['fetching',['../classSimpleCore.html#a25313f276237eeff2ecc8f6b2e97fa3c',1,'SimpleCore']]],
+  ['fetchingconnectionid_13',['fetchingConnectionID',['../classSimpleCore.html#a7813ab6b36d17fad1b886cee617cd860',1,'SimpleCore']]],
+  ['fetchinterval_14',['fetchInterval',['../classBoomFetch.html#a835304b9cfdd56589a8b765ebf6bf749',1,'BoomFetch::fetchInterval'],['../classFetcher.html#aea1776fe8451934e4e4676002c020666',1,'Fetcher::fetchInterval']]],
+  ['fetchsize_15',['fetchSize',['../classBoomFetch.html#abf53c1509f94c03904409064fb0b4ef3',1,'BoomFetch::fetchSize'],['../classFetcher.html#a2449c47c5fba518b7ae6153b947239be',1,'Fetcher::fetchSize']]],
+  ['flags_16',['flags',['../structBoomFetchBufferEntry.html#ae5b24668936b537daaf515bc0e68a784',1,'BoomFetchBufferEntry']]],
+  ['flagstocheck_17',['flagsToCheck',['../classBoomFetch.html#a1607fab855fa82d1d1acc11be8043638',1,'BoomFetch::flagsToCheck'],['../classFetcher.html#aa4df93e0980c3ccaa7ed12823b311cf4',1,'Fetcher::flagsToCheck']]]
+];

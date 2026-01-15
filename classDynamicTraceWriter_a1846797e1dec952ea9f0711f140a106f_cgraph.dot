@@ -1,0 +1,13 @@
+digraph "DynamicTraceWriter::OpenFile"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="DynamicTraceWriter\l::OpenFile",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Create the [tid] dynamic file in the [sourceDir] directory."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="FormatPathTidIn",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$file__handler_8cpp.html#af8051e3b621ada70a86f59a5ca1acf62",tooltip="Format the path in dest string including the thread id."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="GetPathTidInSize",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$file__handler_8cpp.html#a47daa061d4dd25ed262324b7debfd2e7",tooltip="Get max size of the formatted path string that includes the thread id."];
+}

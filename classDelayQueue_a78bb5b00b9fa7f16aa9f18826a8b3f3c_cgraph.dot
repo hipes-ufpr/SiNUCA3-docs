@@ -1,0 +1,13 @@
+digraph "DelayQueue::Enqueue"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="DelayQueue::Enqueue",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="No insertion if full. If empty, the queueFirst is set with new elemToInsert. Otherwise,..."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CircularBuffer::Enqueue",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCircularBuffer.html#a1bab68c69281c3740f45be5d78604712",tooltip="Inserts the element at the \"top\" of the buffer."];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="CircularBuffer::IsFull",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCircularBuffer.html#ab06acc73323bb95eff51bcbc7adf868f",tooltip="Returns a boolean indicating whether the Buffer is full."];
+}

@@ -1,0 +1,32 @@
+digraph "Engine::Simulate"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="Engine::Simulate",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Self-explanatory."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="Engine::Clock",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classEngine.html#a5db825a0ad44311dae79ca33b095686d",tooltip="This method should be declared here so the simulator can send clock cycles."];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="Engine::Fetch",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classEngine.html#af18677c94b42d767eb444558b2f51b18",tooltip="Responds to requests."];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="Engine::SendBufferedAndFetch",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classEngine.html#a4bddfa6cf2bdb036d5220f84b178284c",tooltip="Auxiliar to Fetch()."];
+  Node4 -> Node5 [id="edge4_Node000004_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="Component\< FetchPacket\l \>::SendResponseToConnection",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classComponent.html#ad1b0b8b74b2164c8cd3e7d6927a3a378",tooltip=" "];
+  Node2 -> Node6 [id="edge5_Node000002_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="Linkable::GetNumberOfConnections",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classLinkable.html#ad9a6ead10f00c5d4f1c9614aa0bfeb9e",tooltip="Self-explanatory."];
+  Node2 -> Node7 [id="edge6_Node000002_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="Component\< FetchPacket\l \>::ReceiveRequestFromConnection",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classComponent.html#a75bb1a9aff8e43246935b0770fb3d9ed",tooltip=" "];
+  Node1 -> Node8 [id="edge7_Node000001_Node000008",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="Engine::GetTraceSize",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classEngine.html#a6a96e07f331f7f90779cbb102ee8f48c",tooltip="Returns the number of instructions to be executed."];
+  Node1 -> Node9 [id="edge8_Node000001_Node000009",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="Linkable::PosClock",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classLinkable.html#a477ca59bc87e9b91cea517c98bf5c669",tooltip="Don't call this method."];
+  Node1 -> Node10 [id="edge9_Node000001_Node000010",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="Engine::PrintTime",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classEngine.html#ad5d75e1d0486bd707b9b43ec8651d140",tooltip="Prints the estimated remaining simulation time."];
+  Node1 -> Node11 [id="edge10_Node000001_Node000011",color="steelblue1",style="solid",tooltip=" "];
+  Node11 [id="Node000011",label="Engine::SetupSimulation",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classEngine.html#a23365d859be19744625ca683a4215350",tooltip="Called at the beggining of Simulate()."];
+  Node11 -> Node12 [id="edge11_Node000011_Node000012",color="steelblue1",style="solid",tooltip=" "];
+  Node12 [id="Node000012",label="TraceReader::Fetch",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classTraceReader.html#a5f3fd31e607856080b724ef7417059be",tooltip="Get next executed instruction."];
+  Node11 -> Node6 [id="edge12_Node000011_Node000006",color="steelblue1",style="solid",tooltip=" "];
+}

@@ -1,0 +1,13 @@
+digraph "BoomFetch::ClockSendBuffered"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="BoomFetch::ClockSendBuffered",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Helper to send the fetched instructions to the memory, predictor and btb."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="BoomFetch::SentToBTB",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classBoomFetch.html#a72703f0b6629ed8403c19565ce256a89",tooltip="Helper for sending instructions to the RAS."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="BoomFetch::SentToRas",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classBoomFetch.html#aa2c9686dadb636c362019a9daa745bc3",tooltip="Helper for sending instructions to the RAS."];
+}

@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['sendbufferedandfetch_0',['SendBufferedAndFetch',['../classEngine.html#a4bddfa6cf2bdb036d5220f84b178284c',1,'Engine']]],
+  ['sendrequest_1',['SendRequest',['../classComponent.html#a612c7acfd4a5f107a2e46f0eb6e9950e',1,'Component']]],
+  ['sendrequestunsafe_2',['SendRequestUnsafe',['../classLinkable.html#ab1105aee3fd76499e6603277e778f0c7',1,'Linkable']]],
+  ['sendresponsetoconnection_3',['SendResponseToConnection',['../classComponent.html#ad1b0b8b74b2164c8cd3e7d6927a3a378',1,'Component']]],
+  ['sendresponseunsafe_4',['SendResponseUnsafe',['../classLinkable.html#aafc5f39d010f433721b8dbe11ed12224',1,'Linkable']]],
+  ['senttobtb_5',['SentToBTB',['../classBoomFetch.html#a72703f0b6629ed8403c19565ce256a89',1,'BoomFetch']]],
+  ['senttoras_6',['SentToRas',['../classBoomFetch.html#aa2c9686dadb636c362019a9daa745bc3',1,'BoomFetch']]],
+  ['setheadertype_7',['SetHeaderType',['../structFileHeader.html#ae6233f6aa68bb2a480272c46b2e43c68',1,'FileHeader']]],
+  ['setreturngpr_8',['SetReturnGPR',['../instrumentation__control_8h.html#adb65fbd8cd69a301f2857b5b99e62610',1,'instrumentation_control.h']]],
+  ['setreturnxmm_9',['SetReturnXMM',['../instrumentation__control_8h.html#a9de65bba733d19e2fa848913105d0e13',1,'instrumentation_control.h']]],
+  ['setreturnymm_10',['SetReturnYMM',['../instrumentation__control_8h.html#a425b5ef8995b83da2bf715d72e18cba0',1,'instrumentation_control.h']]],
+  ['setupsimulation_11',['SetupSimulation',['../classEngine.html#a23365d859be19744625ca683a4215350',1,'Engine']]],
+  ['simplecore_12',['SimpleCore',['../classSimpleCore.html#afabce50e82f661e00d812966f2c2f70e',1,'SimpleCore']]],
+  ['simpleexecutionunit_13',['SimpleExecutionUnit',['../classSimpleExecutionUnit.html#ad94470267d92c96ba0afff3d7d434f96',1,'SimpleExecutionUnit']]],
+  ['simulate_14',['Simulate',['../classEngine.html#acb75716760b4f2578d5c4698ff431d3e',1,'Engine']]],
+  ['stopinstrumentation_15',['StopInstrumentation',['../sinuca3__pintool_8cpp.html#ad510f27e7d6d032e1c263cf8d21faa3f',1,'sinuca3_pintool.cpp']]],
+  ['stopinstrumentationinthread_16',['StopInstrumentationInThread',['../sinuca3__pintool_8cpp.html#af80ffaee1a7bb157edf576f927adb0a0',1,'sinuca3_pintool.cpp']]],
+  ['swapbuffers_17',['SwapBuffers',['../structConnection.html#ae4aa33aa185d9b9131d0d352e2d73a15',1,'Connection']]]
+];

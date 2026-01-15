@@ -1,0 +1,15 @@
+digraph "SinucaTraceReader::OpenTrace"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="SinucaTraceReader::\lOpenTrace",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Class attributes initializer."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ThreadData::CheckTargetArch",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$structThreadData.html#aab33e8d43039c3951506bda795365275",tooltip="Check if the target of trace files is as expected."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ThreadData::CheckVersion",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$structThreadData.html#a6ced074a8278f8580196b24502205b6f",tooltip="Check if the version of trace files is as expected."];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="SinucaTraceReader::\lGenerateInstructionDict",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classSinucaTraceReader.html#afadaa7aed9ed0c1cea555f9af3a79171",tooltip="Fill instructions dictionary."];
+}

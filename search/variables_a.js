@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['nobranch_0',['noBranch',['../classHardwiredPredictor.html#aefe846f7bb311b8fa7402a1f4ce1c216',1,'HardwiredPredictor']]],
+  ['numbanks_1',['numBanks',['../structBTBEntry.html#ad399d14628dda81b3bb3bba819c49eeb',1,'BTBEntry']]],
+  ['numberofcalls_2',['numberOfCalls',['../classHardwiredPredictor.html#a6d0054b53f491b010b0f1649e2047503',1,'HardwiredPredictor']]],
+  ['numberofcomponents_3',['numberOfComponents',['../classEngine.html#ad8ea96bff3fa766ba9b6158639c049ff',1,'Engine']]],
+  ['numberofconds_4',['numberOfConds',['../classHardwiredPredictor.html#a9691758132dcd1257bdd447b527afdb2',1,'HardwiredPredictor']]],
+  ['numberofconnections_5',['numberOfConnections',['../classLinkable.html#a3925ce7f48c6885f12e05fa893ef616a',1,'Linkable']]],
+  ['numberofentries_6',['numberOfEntries',['../classGsharePredictor.html#a48786da74b11f523979f1a72449e4f7d',1,'GsharePredictor']]],
+  ['numberofexecinst_7',['numberOfExecInst',['../sinuca3__pintool_8cpp.html#a0193081cee243651829059d93eb209fe',1,'sinuca3_pintool.cpp']]],
+  ['numberoffetchers_8',['numberOfFetchers',['../classEngine.html#ad177e418bf8c9bf727e3410a51328a46',1,'Engine']]],
+  ['numberofinstructions_9',['numberOfInstructions',['../structBTBPacket.html#a1df82b233c8b633cd44621d5979216f1',1,'BTBPacket']]],
+  ['numberofnobranchs_10',['numberOfNoBranchs',['../classHardwiredPredictor.html#a7ab8d04c92f89aecae55a22305bc0f7a',1,'HardwiredPredictor']]],
+  ['numberofpredictions_11',['numberOfPredictions',['../classGsharePredictor.html#a8c5d267be669e1dda5a6480dbc2a603b',1,'GsharePredictor']]],
+  ['numberofrets_12',['numberOfRets',['../classHardwiredPredictor.html#a6f9e60e6b1695d6c67241360e1b33f08',1,'HardwiredPredictor']]],
+  ['numberofsyscalls_13',['numberOfSyscalls',['../classHardwiredPredictor.html#af568ae68c69d054d4c6217882669e8b1',1,'HardwiredPredictor']]],
+  ['numberofsysrets_14',['numberOfSysrets',['../classHardwiredPredictor.html#abcc38d49b104e4f1b7a6c05aae774bb8',1,'HardwiredPredictor']]],
+  ['numberofwrongpredictions_15',['numberOfWrongPredictions',['../classGsharePredictor.html#af2dfe1f360829fdc00f4b340f2e74aae',1,'GsharePredictor']]],
+  ['numentries_16',['numEntries',['../classBranchTargetBuffer.html#aa95d4f14507812d96d96bf90db3face9',1,'BranchTargetBuffer']]],
+  ['numfetchedinstructions_17',['numFetchedInstructions',['../classSimpleCore.html#a2eae1479c6c3e2d55e669eb5b7baa9c0',1,'SimpleCore']]]
+];

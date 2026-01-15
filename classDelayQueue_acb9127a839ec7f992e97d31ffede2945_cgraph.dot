@@ -1,0 +1,19 @@
+digraph "DelayQueue::Configure"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="DelayQueue::Configure",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="This method should be declared here so the simulator can send config parameters."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CircularBuffer::Allocate",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCircularBuffer.html#aea7f307fc50f0061abc38840a1be0ad5",tooltip="Allocates the structure of a Circular Buffer."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="Component::Connect",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classComponent.html#adb7efec501917be07a6e17a1d4c1d48a",tooltip="Connects to another component."];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="Linkable::ConnectUnsafe",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classLinkable.html#ae3c99b11c56a71f4a231281d615d85c1",tooltip="Connect to this component."];
+  Node4 -> Node5 [id="edge4_Node000004_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="Linkable::AddConnection",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classLinkable.html#af639d5ce03b401a6979f239a116f441e",tooltip="Add the new connection in the connections array."];
+  Node4 -> Node6 [id="edge5_Node000004_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="Connection::CreateBuffers",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$structConnection.html#a9b1be2982a5f4a4c6bff81fe7a931673",tooltip="Allocate the buffers used to channels."];
+}

@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['basicblock_0',['basicBlock',['../classStaticTraceWriter.html#a73223a3ef570b8144926644f95fabfc3',1,'StaticTraceWriter']]],
+  ['basicblockarraysize_1',['basicBlockArraySize',['../classStaticTraceWriter.html#a9c8d048a97158275d01a68acacc92643',1,'StaticTraceWriter']]],
+  ['begininstrumentationblock_2',['BeginInstrumentationBlock',['../instrumentation__control_8h.html#ad69d40be73a572b0b3c31641f2568b70',1,'instrumentation_control.h']]],
+  ['bimodal_5fcounter_2ecpp_3',['bimodal_counter.cpp',['../bimodal__counter_8cpp.html',1,'']]],
+  ['bimodal_5fcounter_2ehpp_4',['bimodal_counter.hpp',['../bimodal__counter_8hpp.html',1,'']]],
+  ['bimodalcounter_5',['BimodalCounter',['../classBimodalCounter.html',1,'']]],
+  ['boom_5ffetch_2ecpp_6',['boom_fetch.cpp',['../boom__fetch_8cpp.html',1,'']]],
+  ['boomfetch_7',['BoomFetch',['../classBoomFetch.html',1,'']]],
+  ['boomfetchbufferentry_8',['BoomFetchBufferEntry',['../structBoomFetchBufferEntry.html',1,'']]],
+  ['branch_9',['Branch',['../default__packets_8hpp.html#a7d4b945d09091ef987b56e15941d8895',1,'default_packets.hpp']]],
+  ['branchstate_10',['branchState',['../structBTBPacket.html#a852f2c355082ca10a86807d3fb480781',1,'BTBPacket']]],
+  ['branchtargetbuffer_11',['BranchTargetBuffer',['../classBranchTargetBuffer.html',1,'']]],
+  ['branchtypes_12',['branchTypes',['../structBTBEntry.html#aa2c945005a75d7c6399ac3c4048fe5a2',1,'BTBEntry']]],
+  ['btb_13',['btb',['../classBoomFetch.html#a40c4fa08abe42ba6c822bc2a39549188',1,'BoomFetch::btb'],['../classBranchTargetBuffer.html#afd37c0b7636420f97dfa34062a120ae0',1,'BranchTargetBuffer::btb']]],
+  ['btbentry_14',['BTBEntry',['../structBTBEntry.html',1,'']]],
+  ['btbhits_15',['btbHits',['../classBranchTargetBuffer.html#ac2df4f477d37681aa92cfff9a62857a4',1,'BranchTargetBuffer']]],
+  ['btbid_16',['btbID',['../classBoomFetch.html#a0aaad2c51a116383448220c9601ccbf1',1,'BoomFetch']]],
+  ['btbpacket_17',['BTBPacket',['../structBTBPacket.html',1,'']]],
+  ['buffer_18',['buffer',['../classCircularBuffer.html#adb0c1121811f26959027dd8229f63637',1,'CircularBuffer']]],
+  ['buffersize_19',['bufferSize',['../classCircularBuffer.html#a41d88231d15774c59ea4d070561d8a5c',1,'CircularBuffer']]],
+  ['building_20',['Building',['../md_README.html#autotoc_md3',1,'']]]
+];

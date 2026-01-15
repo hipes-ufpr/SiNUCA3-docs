@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['m_0',['M',['../map_8hpp.html#a6a6b853c55b10e18e407f1bec053b5a3',1,'map']]],
+  ['main_1',['main',['../main_8cpp.html#af3ed9c200de85b53c94cd18764b246a2',1,'main.cpp']]],
+  ['main_20authors_2',['Main authors',['../md_README.html#autotoc_md1',1,'']]],
+  ['main_2ecpp_3',['main.cpp',['../main_8cpp.html',1,'']]],
+  ['map_4',['Map',['../classMap.html',1,'']]],
+  ['map_2ecpp_5',['map.cpp',['../map_8cpp.html',1,'']]],
+  ['map_2ehpp_6',['map.hpp',['../map_8hpp.html',1,'']]],
+  ['map_3c_20definition_20_3e_7',['Map&lt; Definition &gt;',['../classMap.html',1,'']]],
+  ['map_3c_20linkable_20_2a_20_3e_8',['Map&lt; Linkable * &gt;',['../classMap.html',1,'']]],
+  ['map_3c_20yaml_3a_3ayamlvalue_20_3e_9',['Map&lt; yaml::YamlValue &gt;',['../classMap.html',1,'']]],
+  ['maxbuffersize_10',['maxBufferSize',['../classCircularBuffer.html#a0fc32aad65e898eeeffcca139c6d98df',1,'CircularBuffer']]],
+  ['memory_5ftrace_5freader_2ehpp_11',['memory_trace_reader.hpp',['../memory__trace__reader_8hpp.html',1,'']]],
+  ['memory_5ftrace_5fwriter_2ecpp_12',['memory_trace_writer.cpp',['../memory__trace__writer_8cpp.html',1,'']]],
+  ['memory_5ftrace_5fwriter_2ehpp_13',['memory_trace_writer.hpp',['../memory__trace__writer_8hpp.html',1,'']]],
+  ['memorypacket_14',['MemoryPacket',['../default__packets_8hpp.html#a7f233f5163efad267a577814151c3449',1,'default_packets.hpp']]],
+  ['memoryqueue_15',['MemoryQueue',['../classMemoryQueue.html',1,'']]],
+  ['memorytracereader_16',['MemoryTraceReader',['../classMemoryTraceReader.html',1,'']]],
+  ['memorytracerecord_17',['MemoryTraceRecord',['../structMemoryTraceRecord.html',1,'']]],
+  ['memorytracewriter_18',['MemoryTraceWriter',['../classMemoryTraceWriter.html',1,'']]],
+  ['misspenalty_19',['missPenalty',['../classiTLB.html#ab36da99c9f5b706211476f4bed69e535',1,'iTLB']]],
+  ['misspredictions_20',['misspredictions',['../classBoomFetch.html#a94ff1cd3670a483454c47ea7c73c6056',1,'BoomFetch::misspredictions'],['../classFetcher.html#a039eef98271e635bfa026f5888181ef9',1,'Fetcher::misspredictions']]],
+  ['misspredictpenalty_21',['misspredictPenalty',['../classBoomFetch.html#a39d2b53cd03613c75c9256aa9a79a25b',1,'BoomFetch::misspredictPenalty'],['../classFetcher.html#a165375c60625860a0b3794ef05c13277',1,'Fetcher::misspredictPenalty']]],
+  ['modularization_20schema_22',['Modularization schema',['../md_README.html#autotoc_md5',1,'']]]
+];

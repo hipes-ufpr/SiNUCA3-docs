@@ -1,0 +1,13 @@
+digraph "StaticTraceWriter::OpenFile"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="StaticTraceWriter::\lOpenFile",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Create the static file in the [sourceDir] directory."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="FormatPathTidOut",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$file__handler_8cpp.html#a30be114aef9e7fa7e4f7d39e9f06c576",tooltip="Format the path in dest string without the thread id."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="GetPathTidOutSize",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$file__handler_8cpp.html#ac44136aae82d15cffbd3acbd26ce5d07",tooltip="Get size of the formatted path string without the thread id."];
+}
